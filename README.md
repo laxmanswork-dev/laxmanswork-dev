@@ -34,14 +34,29 @@
 ---
 
 ### 🎯 My Current Goals
-- Maintain a **daily coding streak** 💪  
-- Build strong projects using **Python** and **JavaScript** 🧠  
-- Become a **Software Engineer** by **2025** 🚀  
+- Keep improving my coding skills every day  
+- Build useful projects using Python and JavaScript  
+- Get a Software Engineer job by 2025  
+
 
 ---
 
 <p align="center">
   💻 <i>This profile updates automatically with my GitHub activity.</i>
+</p>
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:laxmanswork.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/laxmanswork-dev">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 
