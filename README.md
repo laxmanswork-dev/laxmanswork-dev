@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Laxman S</h1>
+<h1 align="center"> Hi, I'm Laxman S</h1>
 
 <p align="center">
-  🚀 <b>Software Developer in Progress</b><br>
+   <b>Software Developer in Progress</b><br>
   💡 <i>Code. Learn. Build. Repeat.</i>
 </p>
 
