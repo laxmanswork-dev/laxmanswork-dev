@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Laxman S  
 
-<!--
-**laxmanswork-dev/laxmanswork-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **Software Developer in Progress**  
+💻 *Code. Learn. Build. Repeat.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🧠 Skills I'm Sharpening
+- 🐍 Python  
+- ⚡ JavaScript  
+- 🌐 HTML / CSS  
+- 💾 Git & GitHub  
+
+---
+
+### 🌱 My Current Goals
+- Maintain a **daily coding streak** 💪  
+- Build strong projects with **Python** and **JavaScript**  
+- Become a **Software Engineer** by 2025 🚀  
+
+---
+
+🕐 *This profile updates automatically with my GitHub activity.*
+
