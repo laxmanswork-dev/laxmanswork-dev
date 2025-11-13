@@ -1,43 +1,50 @@
 # Hi, I'm Laxman S
 
+**Software Engineer in progress**  
+Code. Learn. Build. Repeat.
+
+---
+
+## My GitHub Streak
 <p align="center">
-  <b>Software Engineer in Progress</b><br>
-  <i>Code. Learn. Build. Repeat.</i>
+  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔥 My GitHub Streak
+## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Laxman's GitHub Stats"/>
-</p>
+## About Me
+- Learning MERN stack, Python, and JavaScript
+- Practicing debugging, problem-solving, and test-driven habits
+- Uploading labs, tasks, and small projects consistently
 
 ---
 
-### 🚀 About Me
-- Software Engineer in progress  
-- Learning MERN Stack, Python, JavaScript  
-- Uploading labs, tasks, and projects consistently  
-- Focused on improving problem-solving and debugging skills  
+## Skills
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks / Tools:** Node.js, Express, React (MERN), Git, Chrome DevTools  
+- **Areas:** Debugging, web development, version control, automation basics
 
 ---
 
-<p align="center">
-  📝 <i>This profile updates automatically with my GitHub activity.</i>
-</p>
+## Featured Projects
+- **javascript-debug-lab** — completed debugging lab (DevTools).  
+- **final-project** — (link in repositories) — small MERN practice project.  
+*(See pinned repositories on my profile for direct links.)*
 
 ---
 
-### 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## Contact
+- GitHub: https://github.com/laxmanswork-dev  
+- LinkedIn: https://www.linkedin.com/in/laxmanswork-dev  
+- Email: laxman.s.work@gmail.com
+
+---
+
+_This profile updates automatically with my GitHub activity._
