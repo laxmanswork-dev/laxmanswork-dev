@@ -1,43 +1,31 @@
-<h1 align="center"> Hi, I'm Laxman S</h1>
+# Hi, I'm Laxman S
 
 <p align="center">
-   <b>Software Developer in Progress</b><br>
-  💡 <i>Code. Learn. Build. Repeat.</i>
+  <b>Software Engineer in Progress</b><br>
+  <i>Code. Learn. Build. Repeat.</i>
 </p>
 
 ---
 
-### 🔥 My GitHub Streak
+### 🔥 My GitHub Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Laxman's GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ---
 
-### 🧠 Skills I'm Sharpening
-- 🐍 Python  
-- ⚡ JavaScript  
-- 🌐 HTML / CSS  
-- 🧩 Git & GitHub  
-
----
-
-### 🎯 My Current Goals
-- Keep improving my coding skills every day  
-- Build useful projects using Python and JavaScript  
-- Get a Software Engineer job by 2025  
-
+### 🚀 About Me
+- Software Engineer in progress  
+- Learning MERN Stack, Python, JavaScript  
+- Uploading labs, tasks, and projects consistently  
+- Focused on improving problem-solving and debugging skills  
 
 ---
 
