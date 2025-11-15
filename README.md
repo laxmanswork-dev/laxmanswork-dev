@@ -39,12 +39,14 @@ Code. Learn. Build. Repeat.
 *(See pinned repositories on my profile for direct links.)*
 
 ---
-### Contact  
+### Contact
+
+
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxmanswork-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmanswork-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxman.s.work@gmail.com)
+[![GITHUB](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxmanswork-dev)
+[![LINKDIN](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmanswork-dev)
+[![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxman.s.work@gmail.com)
 
 
 
