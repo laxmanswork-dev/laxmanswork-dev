@@ -40,10 +40,12 @@ Code. Learn. Build. Repeat.
 
 ---
 
-## Contact
-- GitHub: https://github.com/laxmanswork-dev  
-- LinkedIn: https://www.linkedin.com/in/laxmanswork-dev  
-- Email: laxman.s.work@gmail.com
+### Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxmanswork-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmanswork-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxman.s.work@gmail.com)
+
 
 ---
 
