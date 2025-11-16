@@ -44,7 +44,19 @@ Code. Learn. Build. Repeat.
 <p align="left">
 
   <a href="https://github.com/laxmanswork-dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" wid
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35px" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank" style="margin-left: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px" />
+  </a>
+
+  <a href="mailto:laxman.s.work@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35px" />
+  </a>
+
+</p>
+
 
 
 
