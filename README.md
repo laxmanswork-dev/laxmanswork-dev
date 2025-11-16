@@ -83,6 +83,4 @@ _This profile updates automatically with my GitHub activity._
 
 
 
----
 
-_This profile updates automatically with my GitHub activity._
