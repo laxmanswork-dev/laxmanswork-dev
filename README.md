@@ -39,23 +39,27 @@ Code. Learn. Build. Repeat.
 *(See pinned repositories on my profile for direct links.)*
 
 ---
+---
 ### Contact
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45px" /><br/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45px"><br/>
     <sub><b>GitHub</b></sub>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" /><br/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px"><br/>
     <sub><b>LinkedIn</b></sub>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:laxman.s.work@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" /><br/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px"><br/>
     <sub><b>Email</b></sub>
   </a>
 </p>
 
+---
+
+_This profile updates automatically with my GitHub activity._
 
 
 
