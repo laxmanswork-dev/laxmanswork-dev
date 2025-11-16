@@ -42,21 +42,20 @@ Code. Learn. Build. Repeat.
 ### Contact
 
 <p align="center">
-  <a href="https://github.com/laxmanswork-dev" style="margin-right: 60px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45px"><br>
+  <a href="https://github.com/laxmanswork-dev" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45px" /><br/>
     <sub><b>GitHub</b></sub>
-  </a>
-
-  <a href="https://www.linkedin.com/in/laxmanswork-dev" style="margin-right: 60px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px"><br>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px" /><br/>
     <sub><b>LinkedIn</b></sub>
-  </a>
-
-  <a href="mailto:laxman.s.work@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px"><br>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:laxman.s.work@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" /><br/>
     <sub><b>Email</b></sub>
   </a>
 </p>
+
 
 
 
