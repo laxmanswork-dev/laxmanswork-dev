@@ -47,7 +47,7 @@ Code. Learn. Build. Repeat.
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45px">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank">
+  <a href="YOUR_REAL_LINKEDIN_URL" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
