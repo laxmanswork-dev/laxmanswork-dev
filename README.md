@@ -41,22 +41,31 @@ Code. Learn. Build. Repeat.
 ---
 ### Contact
 
-<p align="center">
-  <a href="https://github.com/laxmanswork-dev" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45px" /><br>
-    <sub><b>GitHub</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px" /><br>
-    <sub><b>LinkedIn</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:laxman.s.work@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px" /><br>
-    <sub><b>Email</b></sub>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <!-- LEFT -->
+    <td align="left">
+      <a href="https://github.com/laxmanswork-dev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" /><br>
+        <sub><b>GitHub</b></sub>
+      </a>
+    </td>
+    <!-- CENTER -->
+    <td align="center">
+      <a href="https://www.linkedin.com/in/laxmanswork-dev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" /><br>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+   <!-- RIGHT -->
+    <td align="right">
+      <a href="mailto:laxman.s.work@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px" /><br>
+        <sub><b>Email</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
