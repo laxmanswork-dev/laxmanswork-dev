@@ -6,7 +6,8 @@ Code. Learn. Build. Repeat.
 ---
 
 ### My GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=laxmanswork-dev&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=FFFFFF)
+![GitHub Streak](https://streak-stats-gamma.vercel.app/api?user=laxmanswork-dev&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=D4AF37&sideLabels=D4AF37&dates=FFFFFF)
+
 
 
 ### GitHub Stats
