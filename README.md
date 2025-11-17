@@ -4,12 +4,19 @@
 Code. Learn. Build. Repeat.
 
 ---
+<!-- glitter banner (upload assets/gold-glitter.gif to your repo) -->
+<p align="center">
+  <img src="assets/gold-glitter.gif" alt="Gold Glitter" width="760" style="max-width:100%; display:block; margin:0 auto 18px;" />
+</p>
 
+<!-- Streak with center yellow + side premium soft gold -->
 ### My GitHub Streak
 ![GitHub Streak](https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=D0B45F&sideLabels=D0B45F&dates=FFFFFF)
 
+<!-- Stats with premium soft gold icons/title -->
 ### GitHub Stats
 ![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=D0B45F&text_color=FFFFFF&icon_color=D0B45F)
+
 
 ---
 ## About Me
