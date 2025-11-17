@@ -6,11 +6,11 @@ Code. Learn. Build. Repeat.
 ---
 
 ### My GitHub Streak
-![GitHub Streak](https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=dark&hide_border=true&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=FFFFFF)
+![GitHub Streak](https://streak-stats.demolab.com?user=laxmanswork-dev&theme=dark&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=D4AF37&sideLabels=D4AF37&dates=FFFFFF)
 
 
 ### GitHub Stats
-![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
+![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
 
 ---
 
