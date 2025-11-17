@@ -57,7 +57,6 @@ Code. Learn. Build. Repeat.
 </p>
 
 
-
 ---
 
 _This profile updates automatically with my GitHub activity._
