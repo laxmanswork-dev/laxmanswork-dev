@@ -5,9 +5,10 @@ Code. Learn. Build. Repeat.
 
 ---
 
-## My GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ### My GitHub Streak
+  <p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=laxmanswork-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </p>
 
 ---
