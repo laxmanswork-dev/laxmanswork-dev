@@ -6,15 +6,12 @@ Code. Learn. Build. Repeat.
 ---
 
 ### My GitHub Streak
-![GitHub Streak](https://streak-stats-gamma.vercel.app/api?user=laxmanswork-dev&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=D4AF37&sideLabels=D4AF37&dates=FFFFFF)
-
-
+![GitHub Streak](https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=D0B45F&sideLabels=D0B45F&dates=FFFFFF)
 
 ### GitHub Stats
-![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37)
+![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=D0B45F&text_color=FFFFFF&icon_color=D0B45F)
 
 ---
-
 ## About Me
 - Learning MERN stack, Python, and JavaScript  
 - Practicing debugging, problem-solving, and test-driven habits  
