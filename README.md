@@ -9,7 +9,6 @@ Code. Learn. Build. Repeat.
   <p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=laxmanswork-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-</p>
 
 ---
 
