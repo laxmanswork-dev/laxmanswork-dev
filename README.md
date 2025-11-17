@@ -9,8 +9,9 @@ Code. Learn. Build. Repeat.
 ![GitHub Streak](https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=dark&hide_border=true&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=FFFFFF)
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true)
+### GitHub Stats
+![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
+
 ---
 
 ## About Me
