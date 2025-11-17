@@ -10,8 +10,9 @@ Code. Learn. Build. Repeat.
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true)
+### My GitHub Streak
+![GitHub Streak](https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=dark&hide_border=true)
+
 
 ---
 
