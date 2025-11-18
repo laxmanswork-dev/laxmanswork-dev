@@ -4,8 +4,8 @@
 Code. Learn. Build. Repeat.
 
 ---
-### My GitHub Streak
-![GitHub Streak](https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&background=0D1117&ring=FFD700&fire=FFB000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=E0C35C&dates=FFFFFF&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=laxmanswork-dev&theme=dark&ring=F6C90E&fire=F6C90E&currStreakNum=F6C90E&sideNums=F6C90E&currStreakLabel=F6C90E&sideLabels=F6C90E&dates=FFE57F)
+
 
 
 <!-- Stats with premium soft gold icons/title -->
