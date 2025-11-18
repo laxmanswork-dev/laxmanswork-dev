@@ -8,10 +8,7 @@ Code. Learn. Build. Repeat.
 
 
 
-<!-- Stats with premium soft gold icons/title -->
-### GitHub Stats
-![Laxman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&hide_border=true&theme=dark&title_color=D0B45F&text_color=FFFFFF&icon_color=D0B45F)
-
+![Laxman S' GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=dark&icon_color=F6C90E&title_color=F6C90E&text_color=FFFFFF&ring_color=F6C90E&border_color=F6C90E)
 
 ---
 ## About Me
