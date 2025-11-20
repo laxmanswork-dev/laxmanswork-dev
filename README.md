@@ -2,9 +2,12 @@
 
 **Software Engineer in progress**  
 Code. Learn. Build. Repeat.
-
 ---
-![GitHub Streak](https://streak-stats.demolab.com/?user=laxmanswork-dev&theme=dark&ring=F6C90E&fire=F6C90E&currStreakNum=F6C90E&sideNums=F6C90E&currStreakLabel=F6C90E&sideLabels=F6C90E&dates=FFE57F)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=dark" />
+</p>
+
 
 
 ---
