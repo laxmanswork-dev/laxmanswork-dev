@@ -11,8 +11,14 @@ Code. Learn. Build. Repeat.
 
 
 ---
-![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=radical)
+<div align="center">
+
+<!-- Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB" height="150" />
+<img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF" height="150" />
+
+</div>
 
 ---
 ## About Me
