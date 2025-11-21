@@ -1,31 +1,23 @@
-# Hi, I'm Laxman S
-
-**Software Engineer in progress**  
-Code. Learn. Build. Repeat.
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=dark" />
-</p>
-
-
-
----
-<!-- Clean, professional GitHub Stats section -->
 <div align="center">
 
-<h2>GitHub Performance </h2>
+<h1>Hi, I'm Laxman S</h1>
+<p><strong>Software Engineer in progress</strong><br>
+Code. Learn. Build. Repeat.</p>
+
+<hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
+
+<h2>GitHub Performance</h2>
 
 <a href="https://github.com/laxmanswork-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=ffffff&text_color=9ca3af&icon_color=22c55e" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=ffffff&text_color=9ca3af&icon_color=22c55e&cache_seconds=7200" height="160" />
 </a>
 
 <a href="https://github.com/laxmanswork-dev">
-  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280" height="160" />
+  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=transparent&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&cache_seconds=7200" height="160" />
 </a>
 
 <a href="https://github.com/laxmanswork-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&cache_seconds=7200" height="160" />
 </a>
 
 <hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
@@ -45,49 +37,50 @@ Building a full-stack MERN project: <strong>Mood-Based Social Feed App</strong><
 Exploring advanced concepts in API development, authentication, and cloud deployment.
 </p>
 
-</div>
+<hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
 
----
-## About Me
-- Learning MERN stack, Python, and JavaScript  
-- Practicing debugging, problem-solving, and test-driven habits  
-- Uploading labs, tasks, and small projects consistently  
+<h2>About Me</h2>
 
----
+<ul style="text-align: left; display: inline-block;">
+  <li>Learning MERN stack and Python</li>
+  <li>Practicing debugging, problem-solving, and test-driven habits</li>
+  <li>Pushing labs, tasks, and small projects consistently</li>
+</ul>
 
-## Skills
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks / Tools:** Node.js, Express, React (MERN), Git, Chrome DevTools  
-- **Areas:** Debugging, web development, version control, automation basics  
+<hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
 
----
+<h2>Skills</h2>
 
-## Featured Projects
-- **javascript-debug-lab** – completed debugging lab (DevTools)  
-- **final-project** – small MERN practice project  
+<ul style="text-align: left; display: inline-block;">
+  <li><strong>Languages:</strong> JavaScript, Python, HTML, CSS</li>
+  <li><strong>Frameworks / Tools:</strong> Node.js, Express, React (MERN), Git, Chrome DevTools</li>
+  <li><strong>Areas:</strong> Debugging, web development, version control, automation basics</li>
+</ul>
 
-*(See pinned repositories on my profile for direct links.)*
+<hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
 
----
+<h2>Featured Projects</h2>
 
-### Contact
+<ul style="text-align: left; display: inline-block;">
+  <li><strong>javascript-debug-lab</strong> – completed debugging lab (DevTools)</li>
+  <li><strong>final-project</strong> – small MERN practice project</li>
+</ul>
 
-<p align="center">
-
-<a href="https://github.com/laxmanswork-dev" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45px">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45px">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:laxman.s.work@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45px">
-</a>
-
+<p style="font-size: 14px; color: #9ca3af;">
+(See pinned repositories on my profile for direct links.)
 </p>
 
----
+<hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
 
-_This profile updates automatically with my GitHub activity._
+<h2>Contact</h2>
+
+<p align="center">
+  <a href="https://github.com/laxmanswork-dev"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+</p>
+
+<p style="font-size: 14px; color: #9ca3af;">
+This profile updates automatically with my GitHub activity.
+</p>
+
+</div>
