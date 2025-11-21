@@ -14,7 +14,7 @@ Code. Learn. Build. Repeat.
 <!-- Clean, professional GitHub Stats section -->
 <div align="center">
 
-<h2>GitHub Performance 🐙</h2>
+<h2>GitHub Performance </h2>
 
 <a href="https://github.com/laxmanswork-dev">
   <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=ffffff&text_color=9ca3af&icon_color=22c55e" height="160" />
