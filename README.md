@@ -11,7 +11,8 @@ Code. Learn. Build. Repeat.
 
 
 ---
-![Laxman S' GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=dark&icon_color=F6C90E&title_color=F6C90E&text_color=FFFFFF&ring_color=F6C90E&border_color=F6C90E)
+![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=radical)
 
 ---
 ## About Me
