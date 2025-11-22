@@ -17,7 +17,7 @@ Code. Learn. Build. Repeat.</p>
 </a>
 
 <a href="https://github.com/laxmanswork-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=7200" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&cache_seconds=7200" height="160" />
 </a>
 
 
