@@ -69,4 +69,26 @@ Code. Learn. Build. Repeat.</p>
 
 <hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
 
+<h2>Contact</h2>
+
+<p align="center">
+  <a href="https://github.com/laxmanswork-dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/laxmanswork-dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:laxmanswork.dev@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" height="45" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Let’s connect and build something amazing!</em>
+</p>
+
+<hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
+
 </div>
