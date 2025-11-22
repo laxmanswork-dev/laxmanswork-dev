@@ -26,11 +26,11 @@ Code. Learn. Build. Repeat.</p>
 <h2>Technology Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,express,mongodb,git,github,vscode,postman&theme=dark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman&theme=dark" />
 </p>
 
 <hr style="width: 60%; border: 0.5px solid #2d2d2d; margin: 30px auto;">
+
 
 
 <p>
