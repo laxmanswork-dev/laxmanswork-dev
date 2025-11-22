@@ -1,11 +1,11 @@
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
 
-<h1>Laxman S</h1>
+<h1 style="margin-bottom: 10px;">Laxman S</h1>
 <p><em>Turning ideas into interactive, production-ready experiences.</em></p>
 <p><strong>Aspiring Software Engineer • MERN Stack</strong><br>
 Building clean, scalable, and impactful web applications.</p>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
 <h2>📈 GitHub Performance</h2>
 
@@ -26,9 +26,9 @@ Building clean, scalable, and impactful web applications.</p>
     height="160" alt="Top languages" />
 </div>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
-<h2>🧠 Technology Stack</h2>
+<h2>Technology Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git,github,vscode,postman&theme=dark" alt="Tech stack icons" />
@@ -36,25 +36,25 @@ Building clean, scalable, and impactful web applications.</p>
 
 <p><em>Focused on modern JavaScript (MERN), API design, and scalable full-stack architectures.</em></p>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
-<h2>🎯 Current Focus</h2>
+<h2>Current Focus</h2>
 
 <p>
   Building a full-stack MERN project: <strong>Mood-Based Social Feed App</strong><br>
   Strengthening API design, authentication, and deployment workflows.
 </p>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
-<h2>🧱 About Me</h2>
+<h2>About Me</h2>
 
 <p>
   I craft maintainable, scalable solutions with a balance between performance and simplicity.<br>
   I love clean code, thoughtful design, and exploring new technologies that make ideas real.
 </p>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
 <h2>Core Skills</h2>
 
@@ -64,9 +64,9 @@ Building clean, scalable, and impactful web applications.</p>
   <strong>Strengths:</strong> Debugging, clean architecture, UI/UX understanding, performance tuning
 </p>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
-<h2>🧭 Featured Project</h2>
+<h2>Featured Project</h2>
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev/travelRecommendation"><strong>Travel Recommendation</strong></a><br>
@@ -74,7 +74,7 @@ Building clean, scalable, and impactful web applications.</p>
   <em>Built for smooth performance, scalability, and clean code structure.</em>
 </p>
 
----
+<hr style="width: 70%; border: 0.5px solid #2d2d2d; margin: 25px auto;">
 
 <h2>Contact</h2>
 
@@ -88,10 +88,8 @@ Building clean, scalable, and impactful web applications.</p>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com" aria-label="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="40" height="40" />
   </a>
 </p>
-
----
 
 </div>
