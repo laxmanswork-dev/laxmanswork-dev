@@ -6,9 +6,11 @@
 ### About Me
 Aspiring Software Engineer — MERN Stack. Focused on building scalable, efficient, and reliable web applications.
 
+---
+
 ### Technical Expertise
 Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Python.
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
@@ -21,6 +23,8 @@ Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Pytho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
+---
+
 ### Key Projects
 - **Mood-Based Social Feed App** — MERN app that personalizes feed by user mood.  
 - **Travel Recommendation Platform** — Recommends destinations with clean APIs and modern UI.  
@@ -29,12 +33,10 @@ Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Pytho
 ---
 
 ### GitHub Statistics
-<!-- Streak FIRST (reliable host) -->
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=github-dark&hide_border=true" height="165" />
 </p>
 
-<!-- Overall stats + Top languages -->
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=github-dark&hide_border=true" height="165" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=github-dark&hide_border=true" height="165" />
@@ -65,4 +67,3 @@ Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Pytho
 </p>
 
 <p align="center"><i>Driven by curiosity. Focused on building what matters.</i></p>
-
