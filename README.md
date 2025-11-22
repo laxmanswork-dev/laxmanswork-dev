@@ -1,7 +1,9 @@
 <style>
+  /* Compact, balanced tech-stack icons */
   img[alt="Tech stack icons"] {
-    width: 60%;
+    width: 55%;
     max-width: 480px;
+    min-width: 260px;
   }
 </style>
 
@@ -9,7 +11,7 @@
 
   <h1 style="margin-bottom:10px;">Laxman S — Code. Learn. Build.</h1>
   <p><em>Turning ideas into clean, modern, and user-focused web experiences.</em></p>
-  <p><strong>Aspiring Software Engineer • MERN Stack</strong><br>
+  <p><strong>Growing as a MERN Stack Engineer</strong><br>
   Building clean, scalable, and impactful web applications.</p>
   <p><em>Actively seeking software engineering opportunities.</em></p>
 
@@ -39,43 +41,9 @@
   <p align="center">
     <img
       src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,python&theme=dark"
-      alt="Tech stack icons: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub, VS Code, Postman, Python"
+      alt="Tech stack icons"
       loading="lazy" />
   </p>
   <p><em>Focused on modern JavaScript (MERN), API design, and scalable full-stack architectures.</em></p>
 
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
-
-  <h2>Designing Scalable and Purpose-Driven Web Systems</h2>
-  <p>
-    Building a full-stack MERN project: <strong>Mood-Based Social Feed App</strong><br>
-    Strengthening API design, authentication, and deployment workflows.
-  </p>
-
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
-
-  <h2>Where Creative Ideas Turn into Scalable Solutions</h2>
-  <p align="center">
-    <a href="https://github.com/laxmanswork-dev/travelRecommendation" target="_blank" rel="noopener noreferrer"><strong>Travel Recommendation</strong></a><br>
-    A MERN stack project that suggests travel destinations intelligently with a seamless and modern UI.<br>
-    <em>Built for smooth performance, scalability, and clean code structure.</em>
-  </p>
-
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
-
-  <h2>Let’s Collaborate to Build the Future</h2>
-  <p align="center">
-    <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" loading="lazy" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/laxmanswork-dev/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40" loading="lazy" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:laxmanswork.dev@gmail.com" aria-label="Email">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="40" height="40" loading="lazy" />
-    </a>
-  </p>
-
-  <p><em>Driven by curiosity, powered by code.</em></p>
-
-</div>
+  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px aut
