@@ -1,8 +1,10 @@
 <h1 align="center">Laxman S — Code. Learn. Build.</h1>
 <p align="center">Turning ideas into clean and impactful digital products.</p>
 
+---
+
 ### About Me
-Aspiring Software Engineer — MERN Stack. Focused on building scalable, efficient, reliable web apps.
+Aspiring Software Engineer — MERN Stack. Focused on building scalable, efficient, and reliable web applications.
 
 ### Professional Focus
 Clean code. Scalable systems. Continuous learning.
@@ -22,21 +24,29 @@ Clean code. Scalable systems. Continuous learning.
 </p>
 <p align="center">Core stack: React, Node.js, Express, MongoDB.</p>
 
+---
+
 ### Key Projects
-**Mood-Based Social Feed App** — MERN app delivering a personalized feed by user mood.  
-**Travel Recommendation Platform** — Recommends destinations with smooth UI and clean APIs.  
-Repo: https://github.com/laxmanswork-dev/travelRecommendation
+**Mood-Based Social Feed App** — MERN app delivering a personalized feed based on user mood.  
+**Travel Recommendation Platform** — Suggests destinations with smooth UI and RESTful APIs.  
+Repository: [travelRecommendation](https://github.com/laxmanswork-dev/travelRecommendation)
+
+---
 
 ### Activity
 <p align="center">
   <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=react-dark&radius=8" />
 </p>
 
+---
+
 ### GitHub Statistics
 <p align="center">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=react-dark&hide_border=true" height="160" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=react-dark&hide_border=true" height="160" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=react-dark&hide_border=true" height="160" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=react-dark&hide_border=true" height="160" />
 </p>
+
+---
 
 ### Contact
 <p align="center">
@@ -45,3 +55,4 @@ Repo: https://github.com/laxmanswork-dev/travelRecommendation
   <a href="mailto:laxmanswork.dev@gmail.com">Email</a>
 </p>
 
+<p align="center"><i>Driven by curiosity. Focused on building what matters.</i></p>
