@@ -51,7 +51,18 @@ Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Pytho
 
 ### Contact
 <p align="center">
-  <a href="https://github.com/laxmanswork-dev">GitHub</a> |
-  <a href="https://www.linkedin.com/in/laxman-s">LinkedIn</a> |
-  <a href="mailto:laxmanswork.dev@gmail.com">Email</a>
+  <a href="https://github.com/laxmanswork-dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/laxman-s" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:laxmanswork.dev@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="28" alt="Email"/>
+  </a>
 </p>
+
+<p align="center"><i>Driven by curiosity. Focused on building what matters.</i></p>
+
