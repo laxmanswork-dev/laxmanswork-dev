@@ -38,8 +38,8 @@ Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Pytho
 </p>
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=github-dark&hide_border=true" height="165" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=github-dark&hide_border=true" height="165" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=github-dark&hide_border=true" height="165" />
+  <img alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=github-dark&hide_border=true" height="165" />
 </p>
 
 ---
