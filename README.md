@@ -1,76 +1,68 @@
+<h1 align="center">Laxman S — Code. Learn. Build.</h1>
+<p align="center"><i>Turning ideas into clean and impactful digital products.</i></p>
 
+---
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+### About Me
+**Aspiring Software Engineer — MERN Stack**  
+Focused on building scalable and efficient full-stack web applications.  
 
-  <h1 style="margin-bottom:10px;">Laxman S — Code. Learn. Build.</h1>
-  <p><em>Turning ideas into clean, modern, and user-focused web experiences.</em></p>
-  <p><strong>Aspiring Software Engineer • MERN Stack</strong><br>
-  Building clean, scalable, and impactful web applications.</p>
-  <p><em>Actively seeking software engineering opportunities.</em></p>
+---
 
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
+### Professional Focus
+Clean code. Scalable systems. Continuous learning.  
 
-  <h2>Insights that Reflect Consistent Growth</h2>
-  <p><em>Dedicated to learning, improving, and delivering solutions that truly add value.</em></p>
+---
 
-  <div align="center">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true&area=true&radius=8&cache_seconds=7200"
-      width="90%" alt="Laxman's GitHub activity graph" loading="lazy" />
-  </div>
+### Technical Expertise
+<p align="center">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</p>
 
-  <div align="center" style="margin-top:10px;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=dark&hide_border=true&background=0d1117&ring=0078ff&fire=0078ff&currStreakLabel=ffffff&cache_seconds=7200"
-      height="160" alt="GitHub streak stats" loading="lazy" />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=blue_navy&hide_border=true&title_color=0078ff&text_color=9ca3af&card_width=360&cache_seconds=7200"
-      height="160" alt="Top languages chart" loading="lazy" />
-  </div>
+<p align="center"><i>Core Stack: React, Node.js, Express, MongoDB.</i></p>
 
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
+---
 
-  <h2>A Balanced Blend of Modern Engineering Tools</h2>
-  <p align="center">
-    <img
-      src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,python&theme=dark"
-      alt="Tech stack icons: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub, VS Code, Postman, Python"
-      loading="lazy" />
-  </p>
-  <p><em>Focused on modern JavaScript (MERN), API design, and scalable full-stack architectures.</em></p>
+### Key Projects
 
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
+#### Mood-Based Social Feed App  
+A MERN project offering a personalized social feed based on user mood.  
 
-  <h2>Designing Scalable and Purpose-Driven Web Systems</h2>
-  <p>
-    Building a full-stack MERN project: <strong>Mood-Based Social Feed App</strong><br>
-    Strengthening API design, authentication, and deployment workflows.
-  </p>
+#### Travel Recommendation Platform  
+Suggests travel destinations intelligently with smooth UI and API design.  
 
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
+---
 
-  <h2>Where Creative Ideas Turn into Scalable Solutions</h2>
-  <p align="center">
-    <a href="https://github.com/laxmanswork-dev/travelRecommendation" target="_blank" rel="noopener noreferrer"><strong>Travel Recommendation</strong></a><br>
-    A MERN stack project that suggests travel destinations intelligently with a seamless and modern UI.<br>
-    <em>Built for smooth performance, scalability, and clean code structure.</em>
-  </p>
+### Activity
+<p align="center">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=react-dark&radius=8" />
+</p>
 
-  <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
+---
 
-  <h2>Let’s Collaborate to Build the Future</h2>
-  <p align="center">
-    <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" loading="lazy" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/laxmanswork-dev/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40" loading="lazy" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:laxmanswork.dev@gmail.com" aria-label="Email">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="40" height="40" loading="lazy" />
-    </a>
-  </p>
+### GitHub Statistics
+<p align="center">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=react-dark&hide_border=true" height="165" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=react-dark&hide_border=true" height="165" />
+</p>
 
-  <p><em>Driven by curiosity, powered by code.</em></p>
+---
 
-</div>
+### Contact
+<p align="center">
+  <a href="https://github.com/laxmanswork-dev" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/laxman-s" target="_blank">LinkedIn</a> |
+  <a href="mailto:laxmanswork.dev@gmail.com">Email</a>
+</p>
+
+<p align="center"><i>Driven by curiosity. Focused on building what matters.</i></p>
+
