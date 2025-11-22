@@ -25,12 +25,12 @@
 
   <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
 
-  <h2>Technical Stack: Core Skills Overview</h2>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,python&theme=dark"
-         alt="Tech stack icons" />
-  </p>
-  <p><em>Focused on modern JavaScript (MERN), API design, and scalable full-stack architectures.</em></p>
+ <h2>Technical Stack: Core Skills Overview</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,python&theme=dark" 
+       alt="Tech stack icons" style="width:70%; max-width:500px;" />
+</p>
+<p><em>Focused on modern JavaScript (MERN), API design, and scalable full-stack architectures.</em></p>
 
   <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
 
