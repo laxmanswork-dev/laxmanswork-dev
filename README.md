@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
 
 <h1 style="margin-bottom: 10px;">Laxman S</h1>
-<p><em>Turning ideas into interactive, production-ready experiences.</em></p>
+<p><em>Turning ideas into clean, modern, and user-focused web experiences.</em></p>
 <p><strong>Aspiring Software Engineer • MERN Stack</strong><br>
 Building clean, scalable, and impactful web applications.</p>
 
