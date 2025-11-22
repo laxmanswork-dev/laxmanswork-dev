@@ -1,13 +1,13 @@
 <h1 align="center">Laxman S — Code. Learn. Build.</h1>
 <p align="center">Turning ideas into clean and impactful digital products.</p>
 
-<hr style="border: 0.5px solid #333; margin: 20px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### About Me
 MERN Stack Developer passionate about building scalable, efficient, and reliable web applications.  
 Focused on transforming ideas into seamless digital experiences while continuously learning and improving every day.
 
-<hr style="border: 0.5px solid #333; margin: 20px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### Technical Expertise
 Core stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
@@ -26,7 +26,7 @@ Tools: Git, GitHub, VS Code, Python
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
-<hr style="border: 0.5px solid #333; margin: 20px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### Key Projects
 - **Mood-Based Social Feed App (In Progress)** — MERN app that personalizes the feed based on user mood.  
@@ -35,7 +35,7 @@ Tools: Git, GitHub, VS Code, Python
 - **Travel Recommendation Platform** — Recommends destinations using clean APIs and a modern UI.  
   Repo: [travelRecommendation](https://github.com/laxmanswork-dev/travelRecommendation)
 
-<hr style="border: 0.5px solid #333; margin: 20px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### GitHub Statistics
 <p align="center">
@@ -47,14 +47,14 @@ Tools: Git, GitHub, VS Code, Python
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
-<hr style="border: 0.5px solid #333; margin: 20px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
-<hr style="border: 0.5px solid #333; margin: 20px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### Contact
 <p align="center">
