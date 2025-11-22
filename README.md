@@ -1,9 +1,4 @@
-<style>
-  img[alt="Tech stack icons"] {
-    width: 60%;
-    max-width: 480px;
-  }
-</style>
+
 
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
