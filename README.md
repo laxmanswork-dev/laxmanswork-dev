@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
-  <h1 style="margin-bottom:10px;">Laxman S — Code. Build. Grow.</h1>
+  <h1 style="margin-bottom:10px;">Laxman S — Code. Learn. Build.</h1>
   <p><em>Turning ideas into clean, modern, and user-focused web experiences.</em></p>
   <p><strong>Aspiring Software Engineer • MERN Stack</strong><br>
   Building clean, scalable, and impactful web applications.</p>
@@ -25,7 +25,7 @@
 
   <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
 
-  <h2>Tech Stack: Skills That Matter</h2>
+  <h2>Technical Stack: Core Skills Overview</h2>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,python&theme=dark"
          alt="Tech stack icons" />
@@ -34,7 +34,7 @@
 
   <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
 
-  <h2>Focus Zone: Building What’s Next</h2>
+  <h2>Current Focus: Ongoing Development Work</h2>
   <p>
     Building a full-stack MERN project: <strong>Mood-Based Social Feed App</strong><br>
     Strengthening API design, authentication, and deployment workflows.
@@ -42,7 +42,7 @@
 
   <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
 
-  <h2>Project Spotlight: Clean. Scalable. Smart.</h2>
+  <h2>Featured Project: Practical MERN Example</h2>
   <p align="center">
     <a href="https://github.com/laxmanswork-dev/travelRecommendation"><strong>Travel Recommendation</strong></a><br>
     <em>A MERN stack project that suggests travel destinations intelligently with a seamless and modern UI.<br>
@@ -51,7 +51,7 @@
 
   <hr style="width:70%; border:0.5px solid #2d2d2d; margin:15px auto;">
 
-  <h2>Connect Here: Grow Together Always</h2>
+  <h2>Contact: Let’s Connect Professionally</h2>
   <p align="center">
     <a href="https://github.com/laxmanswork-dev" target="_blank" aria-label="GitHub">
       <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" />
