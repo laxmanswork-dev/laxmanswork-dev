@@ -3,13 +3,13 @@
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### About Me
+### Professional Narrative
 MERN Stack Developer passionate about building scalable, efficient, and reliable web applications.  
 Focused on transforming ideas into seamless digital experiences while continuously learning and improving every day.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Technical Expertise
+### Technical Arsenal
 Core stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
 Tools: Git, GitHub, VS Code, Python
 
@@ -28,7 +28,7 @@ Tools: Git, GitHub, VS Code, Python
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Key Projects
+### Impactful Creations
 - **Mood-Based Social Feed App (In Progress)** — MERN app that personalizes the feed based on user mood.  
   *Currently under development as part of my final MERN project.*
 
@@ -37,7 +37,7 @@ Tools: Git, GitHub, VS Code, Python
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### GitHub Statistics
+### Performance Insights
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=github-dark&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
@@ -49,16 +49,14 @@ Tools: Git, GitHub, VS Code, Python
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Activity
+### Commit Timeline
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
-
-### Contact
+### Let’s Connect Professionally
 <p align="center">
   <a href="https://github.com/laxmanswork-dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
@@ -74,4 +72,3 @@ Tools: Git, GitHub, VS Code, Python
 </p>
 
 <p align="center"><i>Driven by curiosity. Focused on building what matters.</i></p>
-
