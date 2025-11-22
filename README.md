@@ -11,7 +11,7 @@ Building clean, scalable, and impactful web applications.</p>
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true&area=true&radius=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true&area=true&radius=8&cache_seconds=7200"
     width="90%" alt="Laxman's GitHub activity graph" />
 </div>
 
@@ -19,10 +19,10 @@ Building clean, scalable, and impactful web applications.</p>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=dark&hide_border=true&background=0d1117&ring=0078ff&fire=0078ff&currStreakLabel=ffffff"
+    src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=dark&hide_border=true&background=0d1117&ring=0078ff&fire=0078ff&currStreakLabel=ffffff&cache_seconds=7200"
     height="160" alt="GitHub streak" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=blue_navy&hide_border=true&title_color=0078ff&text_color=9ca3af&card_width=360"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=blue_navy&hide_border=true&title_color=0078ff&text_color=9ca3af&card_width=360&cache_seconds=7200"
     height="160" alt="Top languages" />
 </div>
 
@@ -31,7 +31,7 @@ Building clean, scalable, and impactful web applications.</p>
 <h2>Technology Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git,github,vscode,postman&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,postman,python&theme=dark" alt="Tech stack icons" />
 </p>
 
 <p><em>Focused on modern JavaScript (MERN), API design, and scalable full-stack architectures.</em></p>
