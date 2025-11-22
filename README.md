@@ -4,12 +4,15 @@
 ---
 
 ### About Me
-Aspiring Software Engineer — MERN Stack. Focused on building scalable, efficient, and reliable web applications.
+MERN Stack Developer passionate about building scalable, efficient, and reliable web applications.  
+Focused on transforming ideas into seamless digital experiences while continuously learning and improving every day.
 
 ---
 
 ### Technical Expertise
-Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Python.
+Core stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
+Tools: Git, GitHub, VS Code, Python
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
@@ -26,22 +29,24 @@ Core stack: React, Node.js, Express, MongoDB. Tools: Git, GitHub, VS Code, Pytho
 ---
 
 ### Key Projects
-- **Mood-Based Social Feed App** — MERN app that personalizes feed by user mood.  
-- **Travel Recommendation Platform** — Recommends destinations with clean APIs and modern UI.  
+- **Mood-Based Social Feed App (In Progress)** — MERN app that personalizes the feed based on user mood.  
+  *Currently under development as part of my final MERN project.*
+
+- **Travel Recommendation Platform** — Recommends destinations using clean APIs and a modern UI.  
   Repo: [travelRecommendation](https://github.com/laxmanswork-dev/travelRecommendation)
 
 ---
 
 ### GitHub Statistics
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=github-dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=github-dark&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### Activity
 <p align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
