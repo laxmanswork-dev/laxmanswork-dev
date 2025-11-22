@@ -1,23 +1,22 @@
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
 
 <h1>Laxman S</h1>
+<p><em>Turning ideas into interactive, production-ready experiences.</em></p>
 <p><strong>Aspiring Software Engineer • MERN Stack</strong><br>
-Building clean, scalable, and real-world web applications.</p>
+Building clean, scalable, and impactful web applications.</p>
 
 ---
 
 <h2>📈 GitHub Performance</h2>
 
-<!-- Modern activity graph -->
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true&area=true&radius=8"
-    width="95%" alt="Laxman's GitHub activity graph" />
+    width="90%" alt="Laxman's GitHub activity graph" />
 </div>
 
 <br>
 
-<!-- Balanced two-card row -->
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=ffffff"
@@ -81,15 +80,15 @@ Building clean, scalable, and real-world web applications.</p>
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev" target="_blank" aria-label="GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="44" height="44" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork-dev/" target="_blank" aria-label="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="44" height="44" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com" aria-label="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="44" height="44" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="40" height="40" />
   </a>
 </p>
 
