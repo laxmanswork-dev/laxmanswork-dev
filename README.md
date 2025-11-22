@@ -19,10 +19,10 @@ Building clean, scalable, and impactful web applications.</p>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=ffffff"
+    src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=dark&hide_border=true&background=0d1117&ring=0078ff&fire=0078ff&currStreakLabel=ffffff"
     height="160" alt="GitHub streak" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=dark&hide_border=true&title_color=22c55e&text_color=9ca3af&card_width=360"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=blue_navy&hide_border=true&title_color=0078ff&text_color=9ca3af&card_width=360"
     height="160" alt="Top languages" />
 </div>
 
