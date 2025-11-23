@@ -68,7 +68,8 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   </a>
 </p>
 
-<p align="right"><i>Design. Develop. Deploy</i></p>
+
+<p align="center"><i>Design. Develop. Deploy</i></p>
 
 
 
