@@ -53,13 +53,13 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Let's Connect Professionally  
+### Let's Connect Professionally
 <p align="center">
-  <a href="https://github.com/laxmanswork-dev" target="_blank">
+  <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laxman-s" target="_blank">
+  <a href="https://www.linkedin.com/in/laxman-s-337093314/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
