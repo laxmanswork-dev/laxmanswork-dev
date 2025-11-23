@@ -1,4 +1,4 @@
-<h1 align="center">Laxman S — Design. Develop. Deploy.</h1>
+<h1 align="center">Laxman S — Design. Develop. Deploy</h1>
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
