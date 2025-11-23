@@ -1,17 +1,18 @@
 <h1 align="center">Laxman S — Code. Learn. Build.</h1>
-<p align="center">Turning ideas into clean and impactful digital products.</p>
+<p align="center">Turning ideas into clean and impactful digital experiences.</p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Professional Narrative
-MERN Stack Developer passionate about building scalable, efficient, and reliable web applications.  
-Focused on transforming ideas into seamless digital experiences while continuously learning and improving every day.
+### Professional Narrative  
+MERN Stack Developer crafting scalable and efficient web applications.  
+Driven by curiosity, I turn ideas into seamless digital experiences while learning and improving every day.  
+Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Technical Arsenal
-Core stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
-Tools: Git, GitHub, VS Code, Python
+### Technical Arsenal  
+**Core Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
+**Tools:** Git, GitHub, VS Code, Python  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -28,47 +29,42 @@ Tools: Git, GitHub, VS Code, Python
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Impactful Creations
-- **Mood-Based Social Feed App (In Progress)** — MERN app that personalizes the feed based on user mood.  
+### Impactful Creations  
+- **[Mood-Based Social Feed App](#)** — MERN app that personalizes content based on user mood.  
   *Currently under development as part of my final MERN project.*
 
-- **Travel Recommendation Platform** — Recommends destinations using clean APIs and a modern UI.  
-  Repo: [travelRecommendation](https://github.com/laxmanswork-dev/travelRecommendation)
+- **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.  
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Performance Insights
+### Performance Insights  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=github-dark&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Commit Timeline
+### Commit Timeline  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Let’s Connect Professionally
+### Let's Connect Professionally  
 <p align="center">
   <a href="https://github.com/laxmanswork-dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxman-s" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email"/>
   </a>
 </p>
 
-<p align="center"><i>Driven by curiosity. Focused on building what matters.</i></p>
+<p align="center"><i>Code. Learn. Build. Repeat.</i></p>
