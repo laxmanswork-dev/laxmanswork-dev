@@ -30,8 +30,9 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### Impactful Creations  
-- **[Mood-Based Social Feed App](#)** — MERN app that personalizes content based on user mood.  
-  *Currently under development as part of my final MERN project.*
+- **[Mood-Based Social Feed App](#)** — MERN app that will personalize content based on user mood.  
+  *Project concept finalized — development planned for upcoming phase.*
+
 
 - **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.  
 
