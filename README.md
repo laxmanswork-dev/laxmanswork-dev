@@ -55,7 +55,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ### Let's Connect Professionally
 <p align="center">
-  <!-- GitHub (official white circle icon) -->
+  <!-- GitHub (white circle background, black cat) -->
   <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
   </a>
@@ -67,9 +67,9 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail (official white circle + multicolor M) -->
+  <!-- Gmail (exact logo you showed — white circle + multicolor M) -->
   <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Gmail" />
   </a>
 </p>
 
