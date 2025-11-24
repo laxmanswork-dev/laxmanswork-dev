@@ -67,10 +67,10 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail (exact logo you showed — white circle + multicolor M) -->
-  <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Gmail" />
-  </a>
+  <!-- Gmail (official Google logo style) -->
+<a href="mailto:laxmans.work@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
+</a>
 </p>
 
 <p align="center">
