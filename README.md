@@ -55,28 +55,25 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ### Let's Connect Professionally
 <p align="center">
-  <!-- GitHub (white circle) -->
+  <!-- GitHub icon (white circle background, black cat) -->
   <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LinkedIn (official blue) -->
+  <!-- LinkedIn icon (official blue) -->
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail (original M with white circle) -->
+  <!-- Gmail icon (official multi-color M with white circle) -->
   <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" alt="Gmail" />
   </a>
 </p>
 
-<p align="center"><i>Design. Develop. Deploy</i></p>
-
-<p align="right"><i>— Laxman S</i></p>
-
-
-
-
+<p align="center">
+  <em>Design. Develop. Deploy</em><br>
+  — <strong>Laxman S</strong>
+</p>
