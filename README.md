@@ -55,17 +55,27 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ### Let's Connect Professionally
 <p align="center">
+  <!-- GitHub -->
   <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" alt="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <!-- Gmail -->
   <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="38" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  <em>Design. Develop. Deploy</em><br>
+  — <strong>Laxman S</strong>
 </p>
 
 <p align="center"><i>Design. Develop. Deploy</i></p>
