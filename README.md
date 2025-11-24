@@ -55,21 +55,21 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ### Let's Connect Professionally
 <p align="center">
-  <!-- GitHub icon (white circle background, black cat) -->
+  <!-- GitHub (official white circle icon) -->
   <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LinkedIn icon (official blue) -->
+  <!-- LinkedIn (official blue) -->
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Gmail icon (official multi-color M with white circle) -->
+  <!-- Gmail (official white circle + multicolor M) -->
   <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
 </p>
 
