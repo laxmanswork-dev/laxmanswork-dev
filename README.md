@@ -55,19 +55,18 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ### Let's Connect Professionally
 <p align="center">
-  <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" alt="GitHub"/>
+  <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laxman-s-337093314/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="38" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="38" alt="Email" />
   </a>
 </p>
-
 
 <p align="center"><i>Design. Develop. Deploy</i></p>
 
