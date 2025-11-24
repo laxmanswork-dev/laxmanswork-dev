@@ -55,24 +55,28 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ### Let's Connect Professionally
 <p align="center">
-  <!-- GitHub -->
+  <!-- GitHub (white circle) -->
   <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- LinkedIn -->
+
+  <!-- LinkedIn (official blue) -->
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Gmail -->
+
+  <!-- Gmail (original M with white circle) -->
   <a href="mailto:laxmanswork.dev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
 </p>
 
+<p align="center">
+  <em>Design. Develop. Deploy</em><br>
+  — <strong>Laxman S</strong>
+</p>
 <p align="center">
   <em>Design. Develop. Deploy</em><br>
   — <strong>Laxman S</strong>
