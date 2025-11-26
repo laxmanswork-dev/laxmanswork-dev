@@ -1,4 +1,4 @@
-<!-- Laxman S | Perfected GitHub Profile README -->
+<!-- Laxman S | Gamma-Powered GitHub Profile README -->
 
 <h1 align="center">Laxman S — Design • Develop • Deploy</h1>
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
@@ -47,7 +47,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <a href="https://github.com/laxmanswork-dev">
     <img 
       width="49%" 
-      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+      src="https://github-readme-stats-gamma-psi.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
       alt="Laxman's GitHub Stats" 
     />
   </a>
@@ -55,7 +55,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <a href="https://github.com/laxmanswork-dev">
     <img 
       width="49%" 
-      src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
+      src="https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
       alt="Laxman's GitHub Streak" 
     />
   </a>
@@ -66,7 +66,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <a href="https://github.com/laxmanswork-dev">
     <img 
       width="40%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats-gamma-psi.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
       alt="Top Languages" 
     />
   </a>
@@ -86,19 +86,17 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ## Let's Connect Professionally
 <p align="center">
-  <!-- GitHub (original white logo) -->
+  <!-- GitHub -->
   <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn (official blue logo) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Gmail (official red logo) -->
+  <!-- Gmail -->
   <a href="mailto:laxmans.work@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
   </a>
