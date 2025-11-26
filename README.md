@@ -36,7 +36,6 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 - **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.  
 
-
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
 ### Performance Insights
@@ -45,22 +44,23 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
     <img width="49%" alt="Laxman's GitHub stats"
-         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200&timestamp=20251126" />
+         src="https://YOUR-VERCEL-DOMAIN/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/laxmanswork-dev">
     <img width="49%" alt="Laxman's GitHub streak"
-         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=7200&timestamp=20251126" />
+         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
     <img width="40%" alt="Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&timestamp=20251126" />
+         src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
+
 
 ### Commit Timeline  
 <p align="center">
