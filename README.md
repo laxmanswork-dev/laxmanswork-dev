@@ -43,7 +43,6 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   ![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight)](https://git.io/streak-stats)
 </p>
-
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ### Commit Timeline  
