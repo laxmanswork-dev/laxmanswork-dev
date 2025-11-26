@@ -1,4 +1,4 @@
-<!-- Laxman S | Polished GitHub Profile README (Fully Working) -->
+<!-- Laxman S | Perfect GitHub Profile README) -->
 
 <h1 align="center">Laxman S — Design • Develop • Deploy</h1>
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
@@ -66,7 +66,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <a href="https://github.com/laxmanswork-dev">
     <img 
       width="40%" 
-      src="https://github-readme-stats-gamma-puce.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats-gamma-blue.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1000" 
       alt="Top Languages" 
     />
   </a>
