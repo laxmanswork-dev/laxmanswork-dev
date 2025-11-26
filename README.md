@@ -38,12 +38,27 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;">
 
-### Performance Insights  
+<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+
+###  Performance Insights
+
 <p align="center">
-  ![Laxman's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight)](https://git.io/streak-stats)
+  <a href="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+
 
 ### Commit Timeline  
 <p align="center">
