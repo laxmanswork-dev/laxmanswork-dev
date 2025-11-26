@@ -1,18 +1,20 @@
+<!-- Laxman S | Professional GitHub Profile README -->
+
 <h1 align="center">Laxman S — Design • Develop • Deploy</h1>
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-### Professional Narrative  
+## Professional Narrative
 MERN Stack Developer crafting scalable and efficient web applications.  
 Driven by curiosity, I turn ideas into seamless digital experiences while learning and improving every day.  
 Focused on building clean, modern, and impactful solutions for real-world needs.
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-### Technical Arsenal  
+## Technical Arsenal
 **Core Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
-**Tools:** Git, GitHub, VS Code, Python  
+**Tools:** Git, GitHub, VS Code, Python
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -27,69 +29,77 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-### Impactful Creations  
-- **[Mood-Based Social Feed App](#)** — MERN app that will personalize content based on user mood.  
+## Impactful Creations
+- **Mood-Based Social Feed App** — MERN app that personalizes content based on user mood.  
   *Project concept finalized — development planned for upcoming phase.*
 
-
-- **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.  
+- **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-### Performance Insights
+## Performance Insights
 <p align="center">Tracking my growth as a developer</p>
 
 <p align="center">
+  <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
-    <img width="49%" alt="Laxman's GitHub stats"
-         src="https://YOUR-VERCEL-DOMAIN/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img 
+      width="49%" 
+      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+      alt="Laxman's GitHub stats" 
+    />
   </a>
+  <!-- Streak -->
   <a href="https://github.com/laxmanswork-dev">
-    <img width="49%" alt="Laxman's GitHub streak"
-         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" />
+    <img 
+      width="49%" 
+      src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
+      alt="Laxman's GitHub streak" 
+    />
   </a>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <a href="https://github.com/laxmanswork-dev">
-    <img width="40%" alt="Top Languages"
-         src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true" />
+    <img 
+      width="40%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+      alt="Top Languages" 
+    />
   </a>
 </p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-
-### Commit Timeline  
+## Commit Timeline
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" 
+    alt="Laxman's Contribution Graph" 
+  />
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
+<hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-### Let's Connect Professionally
+## Let's Connect Professionally
 <p align="center">
-  <!-- GitHub (white circle background, black cat) -->
-  <a href="https://github.com/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
+  <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-laxmanswork--dev-181717?logo=github" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn (official blue) -->
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-laxmanswork-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Gmail (official Google logo style) -->
-<a href="mailto:laxmans.work@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
-</a>
+  &nbsp;&nbsp;
+  <a href="mailto:laxmans.work@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-laxmans.work%40gmail.com-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <em>Design. Develop. Deploy</em><br>
+  <em>Design. Develop. Deploy.</em><br>
   — <strong>Laxman S</strong>
 </p>
