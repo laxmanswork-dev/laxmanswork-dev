@@ -1,4 +1,4 @@
-<!-- Laxman S | Professional GitHub Profile README -->
+<!-- Laxman S | Perfected GitHub Profile README -->
 
 <h1 align="center">Laxman S — Design • Develop • Deploy</h1>
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
@@ -48,7 +48,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
     <img 
       width="49%" 
       src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-      alt="Laxman's GitHub stats" 
+      alt="Laxman's GitHub Stats" 
     />
   </a>
   <!-- Streak -->
@@ -56,7 +56,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
     <img 
       width="49%" 
       src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
-      alt="Laxman's GitHub streak" 
+      alt="Laxman's GitHub Streak" 
     />
   </a>
 </p>
@@ -86,16 +86,21 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ## Let's Connect Professionally
 <p align="center">
+  <!-- GitHub (original white logo) -->
   <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-laxmanswork--dev-181717?logo=github" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn (official blue logo) -->
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-laxmanswork-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail (official red logo) -->
   <a href="mailto:laxmans.work@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-laxmans.work%40gmail.com-D14836?logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
   </a>
 </p>
 
