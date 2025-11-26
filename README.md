@@ -44,16 +44,19 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
-    <img width="49%" src="https://github-readme-stats-git-main-laxmanswork-dev.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Laxman's GitHub stats" />
+    <img width="49%" alt="Laxman's GitHub stats"
+         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200&timestamp=20251126" />
   </a>
   <a href="https://github.com/laxmanswork-dev">
-    <img width="49%" src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" alt="Laxman's GitHub streak" />
+    <img width="49%" alt="Laxman's GitHub streak"
+         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=7200&timestamp=20251126" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
-    <img width="40%" src="https://github-readme-stats-git-main-laxmanswork-dev.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img width="40%" alt="Top Languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&timestamp=20251126" />
   </a>
 </p>
 
