@@ -42,37 +42,39 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 ## Performance Insights
 <p align="center">Tracking my growth as a developer</p>
 
-<p align="center">
+<!-- GitHub Stats + Streak -->
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="49%" 
-      src="https://github-readme-stats-gamma-puce.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-      alt="Laxman's GitHub Stats" 
-    />
+    <img width="49%"
+         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+         alt="Laxman's GitHub Stats" />
   </a>
+
   <!-- Streak -->
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="49%" 
-      src="https://streak-stats-gamma.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
-      alt="Laxman's GitHub Streak" 
-    />
+    <img width="49%"
+         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+         alt="Laxman's GitHub Streak" />
   </a>
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
+<!-- Top Languages -->
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="40%" 
-      src="https://github-readme-stats-gamma-blue.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1000" 
-      alt="Top Languages" 
-    />
+    <img width="40%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1000"
+         alt="Top Languages" />
   </a>
 </p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
+
+## Commit Timeline
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true"
+       alt="Laxman's Contribution Graph" />
+</p>
 
 ## Commit Timeline
 <p align="center">
