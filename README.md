@@ -47,7 +47,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
     <img width="49%"
-         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
          alt="Laxman's GitHub Stats" />
   </a>
 
@@ -68,13 +68,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   </a>
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
-
-## Commit Timeline
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true"
-       alt="Laxman's Contribution Graph" />
-</p>
+<hr style="border: 0.3px solid #444; margin: 18px 0;" /
 
 ## Commit Timeline
 <p align="center">
