@@ -42,19 +42,16 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 ## Performance Insights
 <p align="center">Tracking my growth as a developer</p>
 
-<!-- GitHub Stats + Streak -->
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
     <img width="49%"
          src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
          alt="Laxman's GitHub Stats" />
   </a>
 
-  <!-- Streak -->
   <a href="https://github.com/laxmanswork-dev">
     <img width="49%"
-         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+         src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
          alt="Laxman's GitHub Streak" />
   </a>
 </p>
