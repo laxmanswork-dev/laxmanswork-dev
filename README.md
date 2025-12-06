@@ -4,7 +4,6 @@
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
-
 ## Professional Narrative
 MERN Stack Developer crafting scalable and efficient web applications.  
 Driven by curiosity, I turn ideas into seamless digital experiences while learning and improving every day.  
