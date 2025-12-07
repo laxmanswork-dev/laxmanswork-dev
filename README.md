@@ -38,7 +38,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-##  Performance Insights
+## 🧠 Performance Insights
 <p align="center">Tracking my growth as a developer</p>
 
 <!-- Stats + Streak -->
@@ -46,19 +46,19 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
   <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="44%" 
-      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" 
-      alt="Laxman's GitHub Stats" 
+    <img
+      width="44%"
+      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
+      alt="Laxman's GitHub Stats"
     />
   </a>
 
   <!-- GitHub Streak -->
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="44%" 
-      src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
-      alt="Laxman's GitHub Streak" 
+    <img
+      width="44%"
+      src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+      alt="Laxman's GitHub Streak"
     />
   </a>
 
@@ -67,10 +67,10 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <!-- Top Languages -->
 <p align="center" style="margin-top: 10px;">
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="44%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1000" 
-      alt="Top Languages" 
+    <img
+      width="44%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200"
+      alt="Top Languages"
     />
   </a>
 </p>
