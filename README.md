@@ -38,7 +38,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-## 🧠 Performance Insights
+##  Performance Insights
 <p align="center">Tracking my growth as a developer</p>
 
 <!-- Stats + Streak -->
