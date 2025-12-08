@@ -53,11 +53,11 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
     />
   </a>
 
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (using vercel host, not demolab) -->
   <a href="https://github.com/laxmanswork-dev">
     <img
       width="44%"
-      src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+      src="https://github-readme-streak-stats.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
       alt="Laxman's GitHub Streak"
     />
   </a>
@@ -75,7 +75,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   </a>
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 ## Commit Timeline
 <p align="center">
