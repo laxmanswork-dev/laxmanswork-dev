@@ -38,11 +38,44 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/laxmanswork-dev)
+## Performance Insights
+<p align="center"><b>Tracking my growth as a developer</b></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true)](https://github.com/laxmanswork-dev)
+<!-- GitHub Stats + Streak -->
+<p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/laxmanswork-dev)
+  <!-- GitHub Stats -->
+  <a href="https://github.com/laxmanswork-dev">
+    <img 
+      width="44%" 
+      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="Laxman's GitHub Stats" 
+    />
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/laxmanswork-dev">
+    <img 
+      width="44%" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
+      alt="Laxman's GitHub Streak" 
+    />
+  </a>
+</p>
+
+<!-- Top Languages -->
+<p align="center" style="margin-top: 10px;">
+  <a href="https://github.com/laxmanswork-dev">
+    <img 
+      width="44%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+      alt="Top Languages" 
+    />
+  </a>
+</p>
+
+<hr style="border: 0.3px solid #444; margin: 18px 0;">
+
 
 ## Commit Timeline
 <p align="center">
