@@ -38,19 +38,18 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-<!-- Professional, no emoji -->
 ## Performance Insights
 <p align="center"><b>Tracking my growth as a developer</b></p>
 
 <p align="center" style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;">
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&v=2"
+         src="https://images.weserv.nl/?url=github-readme-stats.vercel.app/api%3Fusername%3Dlaxmanswork-dev%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26v%3D2"
          alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&v=2"
+         src="https://images.weserv.nl/?url=streak-stats.demolab.com%2F%3Fuser%3Dlaxmanswork-dev%26theme%3Dtokyonight%26hide_border%3Dtrue%26v%3D2"
          alt="GitHub Streak"/>
   </a>
 </p>
@@ -58,7 +57,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <p align="center" style="margin-top:10px;">
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=2"
+         src="https://images.weserv.nl/?url=github-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3Dlaxmanswork-dev%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight%26hide_border%3Dtrue%26v%3D2"
          alt="Top Languages"/>
   </a>
 </p>
