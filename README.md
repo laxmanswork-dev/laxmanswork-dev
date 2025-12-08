@@ -1,15 +1,16 @@
-<!-- Laxman S | Perfect GitHub Profile README) -->
+<!-- Laxman S | Perfect GitHub Profile README -->
 
 <h1 align="center">Laxman S — Design • Develop • Deploy</h1>
 <p align="center">Turning ideas into clean and impactful digital experiences.</p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+<hr/>
+
 ## Professional Narrative
 MERN Stack Developer crafting scalable and efficient web applications.  
 Driven by curiosity, I turn ideas into seamless digital experiences while learning and improving every day.  
 Focused on building clean, modern, and impactful solutions for real-world needs.
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+<hr/>
 
 ## Technical Arsenal
 **Core Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
@@ -28,17 +29,16 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+<hr/>
 
 ## Impactful Creations
 - **Mood-Based Social Feed App** — MERN app that personalizes content based on user mood.  
   *Project concept finalized — development planned for upcoming phase.*
-
 - **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
-## Performance Insights
+<hr/>
 
+## Performance Insights
 <p align="center"><b>Tracking my growth as a developer</b></p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
       width="44%"
     />
   </a>
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (reliable mirror) -->
   <a href="https://github.com/laxmanswork-dev">
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&hide_border=true"
@@ -73,31 +73,32 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 ## Commit Timeline
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true" 
-    alt="Laxman's Contribution Graph" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=github-dark&hide_border=true"
+    alt="Laxman S's Contribution Graph"
   />
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;" />
+<hr/>
 
 ## Let's Connect Professionally
 <p align="center">
   <a href="https://github.com/laxmanswork-dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:laxmans.work@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
-  <em>Design. Develop. Deploy.</em><br>
-  — <strong>Laxman S</strong>
+  <em>Design. Develop. Deploy.</em><br/>
+  <strong>Laxman S</strong>
 </p>
-<!-- Streak update: 27 Nov 2025 -->
+
+<!-- Note: last reviewed: Dec 2025 -->
