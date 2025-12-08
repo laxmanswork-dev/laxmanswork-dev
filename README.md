@@ -43,12 +43,12 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <p align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://raw.githubusercontent.com/laxmanswork-dev/github-stats-images/main/github-stats.png"
+         src="https://raw.githubusercontent.com/laxmanswork-dev/laxmanswork-dev/main/.assets/stats/github-stats.png"
          alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://raw.githubusercontent.com/laxmanswork-dev/github-stats-images/main/github-streak.png"
+         src="https://raw.githubusercontent.com/laxmanswork-dev/laxmanswork-dev/main/.assets/stats/github-streak.png"
          alt="GitHub Streak"/>
   </a>
 </p>
@@ -56,12 +56,11 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <p align="center" style="margin-top:10px;">
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://raw.githubusercontent.com/laxmanswork-dev/github-stats-images/main/top-langs.png"
+         src="https://raw.githubusercontent.com/laxmanswork-dev/laxmanswork-dev/main/.assets/stats/top-langs.png"
          alt="Top Languages"/>
   </a>
 </p>
 
-<hr style="border:0.3px solid #444;margin:18px 0;">
 ## Commit Timeline
 <p align="center">
   <img 
