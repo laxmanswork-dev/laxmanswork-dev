@@ -45,15 +45,16 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark"
       alt="GitHub Stats"
       width="44%"
     />
   </a>
-  <!-- GitHub Streak (reliable mirror) -->
+
+  <!-- GitHub Streak -->
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&hide_border=true"
+      src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=github-dark&hide_border=true"
       alt="GitHub Streak"
       width="44%"
     />
@@ -64,12 +65,8 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
   <!-- Top Languages -->
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
       alt="Top Languages"
-      width="44%"
-    />
-  </a>
-</p>
 
 ## Commit Timeline
 <p align="center">
