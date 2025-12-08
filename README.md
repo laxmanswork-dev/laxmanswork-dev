@@ -67,6 +67,10 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
       alt="Top Languages"
+      width="44%"
+    />
+  </a>
+</p>
 
 ## Commit Timeline
 <p align="center">
