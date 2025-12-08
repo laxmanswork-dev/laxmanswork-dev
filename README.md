@@ -37,19 +37,18 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 - **[Travel Recommendation Platform](https://github.com/laxmanswork-dev/travelRecommendation)** — Suggests destinations using clean APIs and a modern UI.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
-
 ## Performance Insights
 <p align="center"><b>Tracking my growth as a developer</b></p>
 
-<p align="center" style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;">
+<p align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://images.weserv.nl/?url=github-readme-stats.vercel.app/api%3Fusername%3Dlaxmanswork-dev%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26v%3D2"
+         src="https://raw.githubusercontent.com/laxmanswork-dev/github-stats-images/main/github-stats.png"
          alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://images.weserv.nl/?url=streak-stats.demolab.com%2F%3Fuser%3Dlaxmanswork-dev%26theme%3Dtokyonight%26hide_border%3Dtrue%26v%3D2"
+         src="https://raw.githubusercontent.com/laxmanswork-dev/github-stats-images/main/github-streak.png"
          alt="GitHub Streak"/>
   </a>
 </p>
@@ -57,12 +56,12 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <p align="center" style="margin-top:10px;">
   <a href="https://github.com/laxmanswork-dev">
     <img width="44%"
-         src="https://images.weserv.nl/?url=github-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3Dlaxmanswork-dev%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight%26hide_border%3Dtrue%26v%3D2"
+         src="https://raw.githubusercontent.com/laxmanswork-dev/github-stats-images/main/top-langs.png"
          alt="Top Languages"/>
   </a>
 </p>
 
-
+<hr style="border:0.3px solid #444;margin:18px 0;">
 ## Commit Timeline
 <p align="center">
   <img 
