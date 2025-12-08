@@ -38,43 +38,30 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
+<!-- Professional, no emoji -->
 ## Performance Insights
 <p align="center"><b>Tracking my growth as a developer</b></p>
 
-<!-- GitHub Stats + Streak -->
-<p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-
-  <!-- GitHub Stats -->
+<p align="center" style="display:flex;justify-content:center;gap:8px;flex-wrap:wrap;">
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="44%" 
-      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true" 
-      alt="Laxman's GitHub Stats" 
-    />
+    <img width="44%"
+         src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&v=2"
+         alt="GitHub Stats"/>
   </a>
-
-  <!-- GitHub Streak -->
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="44%" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
-      alt="Laxman's GitHub Streak" 
-    />
+    <img width="44%"
+         src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&v=2"
+         alt="GitHub Streak"/>
   </a>
 </p>
 
-<!-- Top Languages -->
-<p align="center" style="margin-top: 10px;">
+<p align="center" style="margin-top:10px;">
   <a href="https://github.com/laxmanswork-dev">
-    <img 
-      width="44%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-      alt="Top Languages" 
-    />
+    <img width="44%"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=2"
+         alt="Top Languages"/>
   </a>
 </p>
-
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
 
 
 ## Commit Timeline
