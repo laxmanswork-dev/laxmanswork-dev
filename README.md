@@ -38,44 +38,23 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 
-##  Performance Insights
 <p align="center">Tracking my growth as a developer</p>
 
-<!-- Stats + Streak -->
-<p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-
-  <!-- GitHub Stats -->
+<p align="center">
   <a href="https://github.com/laxmanswork-dev">
-    <img
-      width="44%"
-      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200"
-      alt="Laxman's GitHub Stats"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Laxman's GitHub Stats" width="44%"/>
   </a>
-
-  <!-- GitHub Streak (using vercel host, not demolab) -->
   <a href="https://github.com/laxmanswork-dev">
-    <img
-      width="44%"
-      src="https://github-readme-streak-stats.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
-      alt="Laxman's GitHub Streak"
-    />
-  </a>
-
-</p>
-
-<!-- Top Languages -->
-<p align="center" style="margin-top: 10px;">
-  <a href="https://github.com/laxmanswork-dev">
-    <img
-      width="44%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200"
-      alt="Top Languages"
-    />
+    <img src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true" alt="Laxman's GitHub Streak" width="44%"/>
   </a>
 </p>
 
-<hr style="border: 0.3px solid #444; margin: 18px 0;">
+<p align="center">
+  <a href="https://github.com/laxmanswork-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%"/>
+  </a>
+</p>
+
 
 ## Commit Timeline
 <p align="center">
