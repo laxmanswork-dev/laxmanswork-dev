@@ -38,26 +38,36 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr style="border: 0.3px solid #444; margin: 18px 0;" />
 ## Performance Insights
+
 <p align="center"><b>Tracking my growth as a developer</b></p>
 
-<p align="center" style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap;">
+<p align="center">
+  <!-- GitHub Stats -->
   <a href="https://github.com/laxmanswork-dev">
-    <img width="44%"
-         src="https://raw.githubusercontent.com/laxmanswork-dev/laxmanswork-dev/main/.assets/stats/github-stats.png"
-         alt="GitHub Stats"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide_border=true"
+      alt="GitHub Stats"
+      width="44%"
+    />
   </a>
+  <!-- GitHub Streak -->
   <a href="https://github.com/laxmanswork-dev">
-    <img width="44%"
-         src="https://raw.githubusercontent.com/laxmanswork-dev/laxmanswork-dev/main/.assets/stats/github-streak.png"
-         alt="GitHub Streak"/>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&hide_border=true"
+      alt="GitHub Streak"
+      width="44%"
+    />
   </a>
 </p>
 
-<p align="center" style="margin-top:10px;">
+<p align="center">
+  <!-- Top Languages -->
   <a href="https://github.com/laxmanswork-dev">
-    <img width="44%"
-         src="https://raw.githubusercontent.com/laxmanswork-dev/laxmanswork-dev/main/.assets/stats/top-langs.png"
-         alt="Top Languages"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true"
+      alt="Top Languages"
+      width="44%"
+    />
   </a>
 </p>
 
