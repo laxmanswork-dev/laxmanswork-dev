@@ -38,41 +38,52 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 
 <hr/>
 
-## Performance Insights
-<p align="center"><b>Tracking my growth as a developer</b></p>
-
+## 🌐 Performance Insights  
 <p align="center">
-  <!-- GitHub Stats (official) -->
-  <a href="https://github.com/laxmanswork-dev">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=github_dark&cache_seconds=7200"
-      alt="GitHub Stats"
-      width="44%"
-    />
-  </a>
+  <b style="font-size: 20px;">Tracking my growth as a developer</b><br>
+  <i>Continuous learning • Clean code • Meaningful impact</i>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak (official) -->
-  <a href="https://github.com/laxmanswork-dev">
-    <img
-      src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      alt="GitHub Streak"
-      width="44%"
-    />
-  </a>
-</p>
+<!-- Row 1: GitHub Stats + Streak -->
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/laxmanswork-dev">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=15&card_width=420"
+          alt="Laxman's GitHub Stats"
+          width="420"
+        />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/laxmanswork-dev">
+        <img
+          src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=false&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=420"
+          alt="Laxman's GitHub Streak"
+          width="420"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Top Languages (official) -->
+<!-- Row 2: Top Languages -->
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=7200"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&border_radius=15&hide_border=false&card_width=860"
       alt="Top Languages"
-      width="44%"
+      width="860"
     />
   </a>
 </p>
+
+<!-- Signature Line -->
+<p align="center">
+  <i style="color: #7aa2f7;">"Building scalable, creative, and impactful web experiences."</i>
+</p>
+
 
 ## Commit Timeline
 <p align="center">
