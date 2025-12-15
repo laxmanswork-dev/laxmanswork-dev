@@ -1,17 +1,18 @@
 <h1 align="center">Laxman S — Design • Develop • Deploy</h1>
 
 <p align="center">
+  <b>MERN Stack Developer | Building scalable, user-focused web applications</b><br>
   <i>Turning ideas into clean, efficient, and impactful digital experiences.</i>
 </p>
 
----
+<hr>
 
 ### Professional Narrative
-I am a MERN Stack Developer passionate about crafting scalable, performant, and elegant web applications.  
-Driven by curiosity, I turn ideas into seamless digital experiences while continuously improving through modern development practices.  
-I focus on building clean, maintainable, and impactful solutions for real-world needs.
+As a MERN Stack Developer, I craft scalable and high-performance web applications with clean architecture and modern best practices.  
+Driven by curiosity, I transform ideas into seamless digital products while continuously improving my technical depth.  
+My focus is on delivering reliable, maintainable, and impactful solutions for real-world challenges.
 
----
+<hr>
 
 ### Technical Arsenal
 
@@ -19,10 +20,10 @@ I focus on building clean, maintainable, and impactful solutions for real-world 
 **Tools:** Git, GitHub, VS Code, Python
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" height="48" />
 </p>
 
----
+<hr>
 
 ### Impactful Creations
 
@@ -31,7 +32,7 @@ I focus on building clean, maintainable, and impactful solutions for real-world 
 
 - **Travel Recommendation Platform** — Suggests destinations using clean APIs and a modern UI.
 
----
+<hr>
 
 ### Performance Insights
 
@@ -46,7 +47,7 @@ I focus on building clean, maintainable, and impactful solutions for real-world 
       <a href="https://github.com/laxmanswork-dev">
         <img
           src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=12&card_width=420"
-          alt="Laxman's GitHub Stats"
+          alt="GitHub Stats"
           width="420"
         />
       </a>
@@ -55,7 +56,7 @@ I focus on building clean, maintainable, and impactful solutions for real-world 
       <a href="https://github.com/laxmanswork-dev">
         <img
           src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=420"
-          alt="Laxman's GitHub Streak"
+          alt="GitHub Streak"
           width="420"
         />
       </a>
@@ -73,15 +74,15 @@ I focus on building clean, maintainable, and impactful solutions for real-world 
   </a>
 </p>
 
----
+<hr>
 
 ### Contribution Timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true" width="90%" alt="Contribution Graph"/>
 </p>
 
----
+<hr>
 
 ### Let's Connect Professionally
 
@@ -101,5 +102,6 @@ I focus on building clean, maintainable, and impactful solutions for real-world 
 
 <p align="center">
   <i>Design. Develop. Deploy.</i><br>
-  <b>Laxman S</b>
+  <b>Laxman S</b><br>
+  <i>Let’s build something exceptional.</i>
 </p>
