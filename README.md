@@ -20,7 +20,7 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 **Tools:** Git, GitHub, VS Code, Python
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" height="48" alt="Laxman S — Technical Skills" />
 </p>
 
 <hr>
@@ -34,6 +34,13 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 <hr>
 
+### Selected Work (Quick Links)
+
+- [Mood-Based Social Feed App](https://github.com/laxmanswork-dev/mood-based-social-feed)  
+- [Travel Recommendation Platform](https://github.com/laxmanswork-dev/travel-recommendation-platform)
+
+<hr>
+
 ### Performance Insights
 
 <p align="center">
@@ -41,23 +48,23 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
   <i>Continuous learning • Clean code • Meaningful impact</i>
 </p>
 
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; width:100%; max-width:900px;">
   <tr>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; width:50%;">
       <a href="https://github.com/laxmanswork-dev">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=12&card_width=420"
-          alt="GitHub Stats"
-          width="420"
+          src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=12"
+          alt="Laxman S — GitHub Stats"
+          style="max-width:420px; width:100%;"
         />
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
+    <td align="center" style="padding: 10px; width:50%;">
       <a href="https://github.com/laxmanswork-dev">
         <img
-          src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=420"
-          alt="GitHub Streak"
-          width="420"
+          src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=false&border_radius=12&date_format=j%20M%5B%20Y%5D"
+          alt="Laxman S — GitHub Streak"
+          style="max-width:420px; width:100%;"
         />
       </a>
     </td>
@@ -67,9 +74,9 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 <p align="center" style="margin-top: 20px;">
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=false&theme=tokyonight&border_radius=12&card_width=860"
-      alt="Top Languages"
-      width="860"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=false&theme=tokyonight&border_radius=12"
+      alt="Laxman S — Top Languages"
+      style="max-width:860px; width:100%;"
     />
   </a>
 </p>
@@ -79,7 +86,11 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 ### Contribution Timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true" width="90%" alt="Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true"
+    width="90%"
+    alt="Laxman S — Contribution Graph"
+  />
 </p>
 
 <hr>
@@ -88,15 +99,15 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="Laxman S — GitHub Profile" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork-dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="Laxman S — LinkedIn Profile" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Laxman S — Email Contact" />
   </a>
 </p>
 
