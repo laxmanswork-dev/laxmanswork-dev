@@ -42,30 +42,33 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
 <p align="center"><b>Tracking my growth as a developer</b></p>
 
 <p align="center">
-  <!-- GitHub Stats (mirror to avoid rate limits) -->
+  <!-- GitHub Stats (official) -->
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laxmanswork-dev&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark&cache_seconds=7200"
+      src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=github_dark&cache_seconds=7200"
       alt="GitHub Stats"
       width="44%"
     />
   </a>
 
-  <!-- GitHub Streak -->
+  <!-- (Optional) Streak: if you self-host DenverCoder1’s streak-stats on Vercel,
+       replace YOUR-VERCEL-APP with your deployment URL and uncomment. -->
+  <!--
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://streak-stats.gamma.com?user=laxmanswork-dev&theme=github-dark&hide_border=true"
+      src="https://YOUR-VERCEL-APP.vercel.app?user=laxmanswork-dev&theme=github-dark&hide_border=true"
       alt="GitHub Streak"
       width="44%"
     />
   </a>
+  -->
 </p>
 
 <p align="center">
-  <!-- Top Languages (mirror to avoid rate limits) -->
+  <!-- Top Languages (official) -->
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=7200"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark&cache_seconds=7200"
       alt="Top Languages"
       width="44%"
     />
