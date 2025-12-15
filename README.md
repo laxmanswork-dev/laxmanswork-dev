@@ -50,18 +50,15 @@ Focused on building clean, modern, and impactful solutions for real-world needs.
       width="44%"
     />
   </a>
-
-  <!-- (Optional) Streak: if you self-host DenverCoder1’s streak-stats on Vercel,
-       replace YOUR-VERCEL-APP with your deployment URL and uncomment. -->
-  <!--
+  <p align="center">
+  <!-- GitHub Streak (official self-hosted version, permanent) -->
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://YOUR-VERCEL-APP.vercel.app?user=laxmanswork-dev&theme=github-dark&hide_border=true"
+      src="https://github-readme-streak-stats.vercel.app?user=laxmanswork-dev&theme=github-dark&hide_border=true&cache_seconds=7200"
       alt="GitHub Streak"
       width="44%"
     />
   </a>
-  -->
 </p>
 
 <p align="center">
