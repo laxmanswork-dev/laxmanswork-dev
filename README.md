@@ -36,7 +36,7 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 ### Selected Work (Quick Links)
 
-- [Mood-Based Social Feed App](https://github.com/laxmanswork-dev/mood-based-social-feed)  
+- [BlissFeed App](https://github.com/laxmanswork-dev/mood-based-social-feed)  
 - [Travel Recommendation Platform](https://github.com/laxmanswork-dev/travel-recommendation-platform)
 
 <hr>
