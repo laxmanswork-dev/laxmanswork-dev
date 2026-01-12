@@ -41,19 +41,42 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 <hr>
 
-## Performance Insights
+## 🚀 Performance Insights
 
-**Tracking my growth as a developer**  
-*Continuous learning • Clean code • Meaningful impact*
+<p align="center">
+  <b>Tracking my growth as a developer</b><br>
+  <i>Continuous learning • Clean code • Meaningful impact</i>
+</p>
 
 ---
 
-![Laxman S — GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight)
+### 📊 GitHub Stats & Streak
 
-![Laxman S — GitHub Streak](https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=14"
+    alt="Laxman S GitHub Stats"
+    width="420"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&border_radius=14"
+    alt="Laxman S GitHub Streak"
+    width="420"
+  />
+</p>
 
-![Laxman S — Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight)
+---
 
+### 💻 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"
+    alt="Laxman S Top Languages"
+    width="860"
+  />
+</p>
 
 
 ### Contribution Timeline
