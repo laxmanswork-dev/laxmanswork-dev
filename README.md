@@ -41,7 +41,7 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 <hr>
 
-## 🚀 Performance Insights
+##  Performance Insights
 
 <p align="center">
   <b>Tracking my growth as a developer</b><br>
@@ -50,7 +50,7 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 ---
 
-### 📊 GitHub Stats & Streak
+###  GitHub Stats & Streak
 
 <p align="center">
   <img
@@ -68,7 +68,7 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 ---
 
-### 💻 Top Languages
+###  Top Languages
 
 <p align="center">
   <img
