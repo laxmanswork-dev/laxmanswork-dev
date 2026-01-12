@@ -48,29 +48,24 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
   <i>Continuous learning • Clean code • Meaningful impact</i>
 </p>
 
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=14&cache_seconds=21600"
-        alt="Laxman S — GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&border_radius=14&cache_seconds=21600"
-        alt="Laxman S — GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center" style="margin-top:25px;">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&border_radius=14&cache_seconds=21600"
+    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=14"
+    alt="Laxman S — GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&border_radius=14"
+    alt="Laxman S — GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"
     alt="Laxman S — Top Languages"
   />
 </p>
+
 
 
 ### Contribution Timeline
