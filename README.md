@@ -41,46 +41,35 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 <hr>
 
-### Performance Insights
+## Performance Insights
 
 <p align="center">
   <b>Tracking my growth as a developer</b><br>
   <i>Continuous learning • Clean code • Meaningful impact</i>
 </p>
 
-<!-- Stats + Streak side-by-side, large cards -->
-<table align="center" style="border-collapse: collapse; width:100%; max-width:1100px;">
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" style="padding: 10px; width:50%;">
-      <a href="https://github.com/laxmanswork-dev">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=14&card_width=480&line_height=30"
-          alt="Laxman S — GitHub Stats"
-          style="max-width:480px; width:100%;"
-        />
-      </a>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=14&cache_seconds=21600"
+        alt="Laxman S — GitHub Stats"
+      />
     </td>
-    <td align="center" style="padding: 10px; width:50%;">
-      <a href="https://github.com/laxmanswork-dev">
-        <img
-          src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&hide_border=false&border_radius=14&date_format=j%20M%5B%20Y%5D&card_width=480"
-          alt="Laxman S — GitHub Streak"
-          style="max-width:480px; width:100%;"
-        />
-      </a>
+    <td align="center" width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&border_radius=14&cache_seconds=21600"
+        alt="Laxman S — GitHub Streak"
+      />
     </td>
   </tr>
 </table>
 
-<!-- Larger Top Languages card -->
-<p align="center" style="margin-top: 25px;">
-  <a href="https://github.com/laxmanswork-dev">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanswork-dev&layout=compact&langs_count=8&hide_border=false&theme=tokyonight&border_radius=14&card_width=950"
-      alt="Laxman S — Top Languages"
-      style="max-width:950px; width:100%;"
-    />
-  </a>
+<p align="center" style="margin-top:25px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&border_radius=14&cache_seconds=21600"
+    alt="Laxman S — Top Languages"
+  />
 </p>
 
 
