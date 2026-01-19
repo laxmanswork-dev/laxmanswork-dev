@@ -72,9 +72,9 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=6&theme=tokyonight&border_radius=14"
     alt="Laxman S Top Languages"
-    width="860"
+    width="420"
   />
 </p>
 
