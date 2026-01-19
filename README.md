@@ -78,6 +78,7 @@ My focus is on delivering reliable, maintainable, and impactful solutions for re
   />
 </p>
 
+<hr>
 
 ### Contribution Timeline
 
