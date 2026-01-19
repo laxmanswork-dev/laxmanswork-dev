@@ -50,7 +50,7 @@ I am continuously strengthening my expertise in full-stack development by workin
 
 ---
 
-###  GitHub Stats & Streak
+### GitHub Stats & Streak
 
 <p align="center">
   <img
@@ -66,9 +66,10 @@ I am continuously strengthening my expertise in full-stack development by workin
   />
 </p>
 
+
 ---
 
-###  Top Languages
+### Top Languages
 
 <p align="center">
   <img
