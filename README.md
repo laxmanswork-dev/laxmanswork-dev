@@ -17,10 +17,11 @@ I am continuously strengthening my expertise in full-stack development by workin
 ### Technical Arsenal
 
 **Core Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
-**Tools:** Git, GitHub, VS Code, Python
+**Tools:** Git, GitHub, VS Code, Python  
+**Cloud & Container Basics:** Docker, Kubernetes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" height="48" alt="Laxman S — Technical Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,docker,kubernetes" height="48" alt="Laxman S — Technical Skills" />
 </p>
 
 <hr>
@@ -41,15 +42,6 @@ I am continuously strengthening my expertise in full-stack development by workin
 
 <hr>
 
-##  Performance Insights
-
-<p align="center">
-  <b>Tracking my growth as a developer</b><br>
-  <i>Continuous learning • Clean code • Meaningful impact</i>
-</p>
-
----
-
 ### GitHub Stats & Streak
 
 <p align="center">
@@ -66,6 +58,14 @@ I am continuously strengthening my expertise in full-stack development by workin
   />
 </p>
 
+<hr>
+
+## Performance Insights
+
+<p align="center">
+  <b>Tracking my growth as a developer</b><br>
+  <i>Continuous learning • Clean code • Meaningful impact</i>
+</p>
 
 ---
 
