@@ -26,19 +26,19 @@ I am continuously strengthening my expertise in full-stack development by workin
 
 <hr>
 
+<hr>
+
 ### Impactful Creations
 
-- **Mood-Based Social Feed App** — A MERN app that personalizes content based on user mood.  
-  *Concept finalized — development in progress.*
-
-- **Travel Recommendation Platform** — Suggests destinations using clean APIs and a modern UI.
+- **BlessFeed — Real-Time Breathing & Reflection System**  
+  A production-oriented MERN application featuring JWT authentication, session-based reflection tracking, and real-time synchronization using Socket.IO.  
+  Designed with performance-focused state management and structured backend architecture.
 
 <hr>
 
 ### Selected Work (Quick Links)
 
-- [BlissFeed App](https://github.com/laxmanswork-dev/mood-based-social-feed)  
-- [Travel Recommendation Platform](https://github.com/laxmanswork-dev/travel-recommendation-platform)
+- [BlessFeed — Real-Time MERN Application](https://github.com/laxmanswork-dev/blessfeed)
 
 <hr>
 
