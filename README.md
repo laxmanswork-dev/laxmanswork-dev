@@ -36,11 +36,27 @@ I am continuously strengthening my expertise in full-stack development by workin
 
 <hr>
 
-### Selected Work (Quick Links)
+### Featured Project
 
-- [BlessFeed — Real-Time MERN Application](https://github.com/laxmanswork-dev/blessfeed)
+#### BlessFeed — Real-Time MERN Breathing & Reflection Platform
 
-<hr>
+A production-oriented full-stack MERN application that delivers a guided two-minute breathing experience with real-time presence tracking and session-based reflection.
+
+Key highlights:
+
+- JWT-based authentication with protected routes  
+- Real-time synchronization using Socket.IO  
+- Active user presence tracking  
+- Session lifecycle management (create, update, complete)  
+- MongoDB-backed reflection history  
+- Performance-conscious state and socket management  
+
+Live Application:  
+https://blessfeed-1.onrender.com  
+
+Source Code:  
+https://github.com/laxmanswork-dev/blessfeed
+
 
 ### GitHub Stats & Streak
 
