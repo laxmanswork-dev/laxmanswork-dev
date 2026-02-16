@@ -8,9 +8,9 @@
 <hr>
 
 ### Professional Narrative
-As a MERN Stack Developer, I focus on designing and building scalable, maintainable, and user-centric web applications using modern JavaScript technologies. I follow clean coding principles, structured architecture, and best practices to deliver reliable and efficient solutions.
+As a Full-Stack MERN Engineer, I design and build structured, production-ready web applications with a focus on system architecture, secure authentication, and real-time communication. I prioritize clean code, performance-aware backend logic, and intentional frontend experiences.
 
-I am continuously strengthening my expertise in full-stack development by working on real-world projects, improving backend logic, and refining frontend performance. My goal is to contribute to high-quality software products while growing as a disciplined and detail-oriented software engineer.
+I aim to engineer scalable systems that are reliable, maintainable, and built with long-term thinking — not just functional, but thoughtfully constructed.
 
 <hr>
 
