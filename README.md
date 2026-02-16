@@ -52,7 +52,7 @@ https://github.com/laxmanswork-dev/blessfeed
 ### GitHub Streak
 
 <p align="center">
-  Consistently building and improving production-ready systems with disciplined engineering practices.
+  Maintaining disciplined, production-focused development.
 </p>
 
 <p align="center">
