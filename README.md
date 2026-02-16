@@ -52,10 +52,6 @@ https://github.com/laxmanswork-dev/blessfeed
 ### GitHub Streak
 
 <p align="center">
-  Maintaining disciplined, production-focused development.
-</p>
-
-<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     alt="Laxman S GitHub Streak"
