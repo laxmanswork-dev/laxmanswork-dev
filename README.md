@@ -58,7 +58,9 @@ https://github.com/laxmanswork-dev/blessfeed
     width="420"
   />
 </p>
-Consistently building and improving production-ready systems with disciplined engineering practices.
+<p align="center">
+  Consistently building and improving production-ready systems with disciplined engineering practices.
+</p>
 
 <hr>
 
