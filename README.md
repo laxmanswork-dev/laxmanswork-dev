@@ -49,16 +49,6 @@ https://github.com/laxmanswork-dev/blessfeed
   
 <hr>
 
-### GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    alt="Laxman S GitHub Stats"
-    width="420"
-  />
-</p>
-
 ### GitHub Streak
 
 <p align="center">
@@ -68,16 +58,9 @@ https://github.com/laxmanswork-dev/blessfeed
     width="420"
   />
 </p>
+### Engineering Consistency
 
-### Top Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    alt="Laxman S Top Languages"
-    width="420"
-  />
-</p>
+Committed to disciplined development practices, continuous iteration, and building production-ready systems with long-term maintainability in mind.
 
 <hr>
 
