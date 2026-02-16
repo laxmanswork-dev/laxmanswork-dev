@@ -52,15 +52,15 @@ https://github.com/laxmanswork-dev/blessfeed
 ### GitHub Streak
 
 <p align="center">
+  Consistently building and improving production-ready systems with disciplined engineering practices.
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     alt="Laxman S GitHub Streak"
     width="420"
   />
-</p>
-<p align="center">
-  Consistently building and improving production-ready systems with disciplined engineering practices.
-</p>
 
 <hr>
 
