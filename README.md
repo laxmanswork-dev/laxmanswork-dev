@@ -49,18 +49,32 @@ https://github.com/laxmanswork-dev/blessfeed
   
 <hr>
 
-### GitHub Stats & Streak
+### GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&rank_icon=github&hide=issues&theme=tokyonight&border_radius=14"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     alt="Laxman S GitHub Stats"
     width="420"
   />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://streak-stats.vercel.app?user=laxmanswork-dev&theme=tokyonight&border_radius=14"
+</p>
+
+### GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     alt="Laxman S GitHub Streak"
+    width="420"
+  />
+</p>
+
+### Top Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    alt="Laxman S Top Languages"
     width="420"
   />
 </p>
