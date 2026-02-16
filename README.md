@@ -58,9 +58,7 @@ https://github.com/laxmanswork-dev/blessfeed
     width="420"
   />
 </p>
-### Engineering Consistency
-
-Committed to disciplined development practices, continuous iteration, and building production-ready systems with long-term maintainability in mind.
+Consistently building and improving production-ready systems with disciplined engineering practices.
 
 <hr>
 
@@ -72,16 +70,6 @@ Committed to disciplined development practices, continuous iteration, and buildi
 </p>
 
 ---
-
-### Top Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanswork-dev&layout=compact&langs_count=6&theme=tokyonight&border_radius=14"
-    alt="Laxman S Top Languages"
-    width="420"
-  />
-</p>
 
 <hr>
 
