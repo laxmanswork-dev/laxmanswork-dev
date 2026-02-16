@@ -71,8 +71,6 @@ https://github.com/laxmanswork-dev/blessfeed
   <i>Continuous learning • Clean code • Meaningful impact</i>
 </p>
 
----
-
 <hr>
 
 ### Contribution Timeline
