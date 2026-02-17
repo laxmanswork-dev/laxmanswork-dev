@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>MERN Stack Developer | Building scalable, user-focused web applications</b><br>
-  <i>Turning ideas into clean, efficient, and impactful digital experiences.</i>
 </p>
 
 <hr>
