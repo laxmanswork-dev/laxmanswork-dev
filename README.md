@@ -48,14 +48,13 @@ https://github.com/laxmanswork-dev/blessfeed
   
 <hr>
 
-### GitHub Streak
-
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=60" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&v=2"
     alt="Laxman S GitHub Streak"
-    width="420"
+    width="500"
   />
+</p>
 
 <hr>
 
