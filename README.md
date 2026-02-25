@@ -48,12 +48,11 @@ https://github.com/laxmanswork-dev/blessfeed
   
 <hr>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
-    alt="Laxman S GitHub Streak"
-    width="500"
-  />
+<img 
+  src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=1800"
+  alt="Laxman's GitHub Streak"
+  width="500"
+/>
 </p>
 
 <hr>
