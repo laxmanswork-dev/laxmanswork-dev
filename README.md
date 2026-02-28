@@ -46,18 +46,16 @@ https://github.com/laxmanswork-dev/blessfeed
 - MongoDB-backed reflection history  
 - Performance-conscious state management and controlled socket lifecycle
 
-<hr>
-
-<div align="center">
-
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+  />
   <img 
     src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
-    width="600"
+    height="170"
   />
-
-</div>
-
-<hr> 
+</p>
 
 ## Performance Insights
 
