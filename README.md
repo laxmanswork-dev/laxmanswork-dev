@@ -50,7 +50,7 @@ https://github.com/laxmanswork-dev/blessfeed
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&v=1"
+    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&v=60"
     width="600"
   />
 </p>
