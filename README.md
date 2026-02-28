@@ -50,12 +50,15 @@ https://github.com/laxmanswork-dev/blessfeed
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=60" 
-    alt="Laxman's GitHub Streak" 
-    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </div>
-</p>
 
 <hr>
 
