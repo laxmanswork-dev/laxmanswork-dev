@@ -45,24 +45,15 @@ https://github.com/laxmanswork-dev/blessfeed
 - Session lifecycle management (create, update, complete)  
 - MongoDB-backed reflection history  
 - Performance-conscious state management and controlled socket lifecycle
-  
-<hr>
 
-<div align="center">
+ <hr>
+ 
+<img 
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true" 
+  height="170"
+/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=laxmanswork-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-
-</div>
-
-<hr>
+<hr> 
 
 ## Performance Insights
 
