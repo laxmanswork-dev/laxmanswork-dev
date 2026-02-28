@@ -50,7 +50,7 @@ https://github.com/laxmanswork-dev/blessfeed
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    src="https://streak-stats.demolab.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=60" 
     alt="Laxman's GitHub Streak" 
     width="500"
   />
