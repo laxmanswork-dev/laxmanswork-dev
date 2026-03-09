@@ -49,7 +49,7 @@ https://github.com/laxmanswork-dev/blessfeed
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=laxmanswork-dev&theme=tokyonight&hide_border=true&v=1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmanswork-dev&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <hr>
