@@ -111,9 +111,11 @@ That is the standard I bring to my work at NIVLAK.
 
 <hr>
 
+## GitHub Activity
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&background=0D1117&ring=8B949E&fire=8B949E&currStreakNum=F0F6FC&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
