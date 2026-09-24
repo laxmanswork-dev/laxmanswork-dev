@@ -1,182 +1,96 @@
-<h1 align="center">Laxman S — Founder • Engineer • Builder</h1>
+<h1 align="center">Laxman S</h1>
 
 <p align="center">
   <b>Founder & CEO — NIVLAK Technologies</b><br>
-  Building digital products, software systems, and technology experiences.
+  Software, products, and digital systems built with intent.
 </p>
 
 <p align="center">
-  <a href="https://github.com/laxmanswork-dev">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/laxmanswork-dev/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:laxmanswork.dev@gmail.com">Email</a>
+  <a href="https://github.com/laxmanswork-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/laxmanswork-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:laxmanswork.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<hr>
+---
 
 ## About
 
-I am the Founder & CEO of **NIVLAK Technologies**, a technology company focused on building digital solutions for businesses, products, and brands.
+I’m the Founder & CEO of **NIVLAK Technologies**, where I work across product, engineering, and the business behind the work.
 
-At NIVLAK, we work across:
+My background is in software engineering, and I remain closely involved in the technical side — shaping systems, building products, and turning ideas into working digital experiences.
 
-- Website Development
-- SaaS Product Development
-- Custom Software Solutions
-- AI Automation Solutions
-- Mobile Application Development
-- Branding & Digital Experiences
+I’m particularly interested in the space where **business, technology, and thoughtful design meet**.
 
-My foundation is in software engineering, and I remain hands-on with the technical side of the work — from system architecture and development to product decisions and delivery.
-
-I believe technology should be built around the actual needs of a business, with attention to usability, reliability, scalability, and long-term value.
-
-<hr>
+---
 
 ## NIVLAK Technologies
 
-### Technology built around your business.
+**NIVLAK Technologies** builds digital solutions for businesses and emerging products — from carefully crafted websites and custom software to SaaS platforms and intelligent automation.
 
-NIVLAK Technologies brings together engineering, design, and business thinking to create practical digital solutions.
+We approach each project from the problem first, rather than the technology first.
 
-We focus on understanding the problem first, designing the right solution, and then building it with the appropriate technology.
+**Understand → Design → Build → Deliver**
 
-**Our approach:**
-
-> Understand the business.  
-> Design the right solution.  
-> Build it properly.  
-> Deliver it for real-world use.
-
-<hr>
+---
 
 ## Engineering
-
-My technical background is rooted in full-stack web development and product engineering.
 
 **Frontend**  
 HTML · CSS · JavaScript · React
 
 **Backend**  
-Node.js · Express.js · REST APIs
+Node.js · Express · REST APIs
 
-**Database**  
-MongoDB
+**Data & Infrastructure**  
+MongoDB · Docker · Git · GitHub
 
-**Engineering & Tools**  
-Git · GitHub · Docker · Socket.IO · JWT · Axios · Redux
-
-**Areas of Focus**  
-System Architecture · API Design · Authentication · Real-Time Systems · Responsive Interfaces · Product Development · Deployment
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,docker"
-    height="48"
-    alt="Technical Skills"
-  />
-</p>
-
-<hr>
-
-## Selected Work
-
-### PACERRA — Productivity SaaS
-
-A productivity-focused SaaS platform built around focus sessions, teams, real-time updates, XP, and streak-based engagement.
-
-**Technology:** React · Node.js · Express · MongoDB · Socket.IO · JWT
-
-<a href="https://github.com/laxmanswork-dev/pacerra">
-  View Repository →
-</a>
+**Systems**  
+JWT · Socket.IO · API Architecture · Real-Time Applications
 
 ---
 
-### CALIOON — Digital Brand Experience
+## Selected Work
 
-A premium digital experience inspired by Greek mythology, combining brand identity, immersive storytelling, and modern web technology.
+### CALIOON
+A mythology-inspired digital brand experience shaped around immersive storytelling, visual identity, and refined interaction.
 
-**Technology:** React · Vite · Tailwind CSS
+**React · Vite · Tailwind CSS**
 
-<a href="https://github.com/laxmanswork-dev/CALIOON">
-  View Repository →
-</a>
+[View Project →](https://github.com/laxmanswork-dev/CALIOON)
 
 ---
 
 ### Asukavi Acupuncture Clinic
+A premium healthcare web experience developed around clarity, trust, and a distinctive visual identity.
 
-A premium healthcare website experience focused on brand presentation, trust, service communication, and user experience.
+**React · Responsive Web Development**
 
-**Technology:** React · Responsive Web Development
-
-<a href="https://github.com/laxmanswork-dev/asukavi-acupuncture-clinic">
-  View Repository →
-</a>
+[View Project →](https://github.com/laxmanswork-dev/asukavi-acupuncture-clinic)
 
 ---
 
 ### Shivdev Holidays
+A destination-led travel experience designed around discovery, visual storytelling, and a considered booking journey.
 
-A large-scale travel website project focused on destination discovery, premium visual presentation, responsive experiences, and conversion-oriented user flows.
-
-<a href="https://github.com/laxmanswork-dev/shivdev-holidays">
-  View Repository →
-</a>
+[View Project →](https://github.com/laxmanswork-dev/shivdev-holidays)
 
 ---
 
-### BlessFeed
+## Perspective
 
-A full-stack application built around guided breathing, reflection, session management, and real-time user presence.
+I prefer software that feels **considered rather than assembled**.
 
-**Technology:** MERN · Socket.IO · JWT · MongoDB
+Good engineering should disappear into the experience — reliable underneath, deliberate on the surface, and shaped by the problem it is meant to solve.
 
-<a href="https://github.com/laxmanswork-dev/Blessfeed">
-  View Repository →
-</a>
+That is the standard I bring to my work at NIVLAK.
 
-<hr>
-
-## Product & Engineering Philosophy
-
-I approach software development from both sides of the problem:
-
-**Business thinking**  
-What does the business actually need?
-
-**Product thinking**  
-How should the solution work for the people using it?
-
-**Engineering thinking**  
-How can the system be built reliably and maintained over time?
-
-**Design thinking**  
-How can the experience feel clear, intentional, and useful?
-
-The goal is not simply to make something work.
-
-The goal is to build something that makes sense.
-
-<hr>
-
-## Building Through NIVLAK
-
-NIVLAK is being built around a simple principle:
-
-<p align="center">
-  <b>Novel Ideas.</b><br>
-  <b>Intelligent Engineering.</b><br>
-  <b>Visionary Impact.</b>
-</p>
-
-We build technology that connects ideas with real-world execution.
-
-<hr>
-
-## GitHub Activity
+---
 
 <p align="center">
   <img
@@ -187,52 +101,28 @@ We build technology that connects ideas with real-world execution.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=true&area=true"
     width="90%"
     alt="GitHub Contribution Graph"
   />
 </p>
 
-<hr>
-
-## Connect
+---
 
 <p align="center">
-
   <a href="https://github.com/laxmanswork-dev">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      width="40"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork-dev/">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="40"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com">
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-      width="40"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
 </p>
 
 <p align="center">
-  <b>Founder. Engineer. Builder.</b>
-</p>
-
-<p align="center">
-  <i>Building what comes next.</i>
+  <i>Building with clarity. Engineering with intent.</i>
 </p>
