@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      src="https://cdn.simpleicons.org/github/FFFFFF"
       width="34"
       alt="GitHub"
     />
@@ -123,7 +123,7 @@ That is the standard I bring to my work at NIVLAK.
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      src="https://cdn.simpleicons.org/github/FFFFFF"
       width="34"
       alt="GitHub"
     />
