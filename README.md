@@ -1,103 +1,260 @@
-<h1 align="center">Laxman S — Design • Develop • Deploy</h1>
+const GitHubProfile = () => {
+  return (
+    <div className="github-profile">
+      {/* Header */}
+      <section className="profile-header">
+        <h1>Laxman S — Founder • Engineer • Builder</h1>
 
-<p align="center">
-  <b>MERN Stack Developer | Building scalable, user-focused web applications</br></br>
-</p>
+        <p className="tagline">
+          <strong>Founder &amp; CEO — NIVLAK Technologies</strong>
+          <br />
+          Building digital products, software systems, and technology experiences.
+        </p>
+      </section>
 
-<hr>
+      <hr />
 
-### Professional Narrative
-As a Full-Stack MERN Engineer, I design and build structured, production-ready web applications with a focus on system architecture, secure authentication, and real-time communication. I prioritize clean code, performance-aware backend logic, and intentional frontend experiences.
+      {/* About */}
+      <section>
+        <h2>About</h2>
 
-I aim to engineer scalable systems that are reliable, maintainable, and built with long-term thinking — not just functional, but thoughtfully constructed.
+        <p>
+          I am the Founder &amp; CEO of <strong>NIVLAK Technologies</strong>,
+          a technology company focused on building websites, SaaS products,
+          custom software, AI automation solutions, mobile applications,
+          and digital experiences.
+        </p>
 
-<hr>
+        <p>
+          My foundation is in software engineering, and I remain hands-on
+          with the technical side of the work — from architecture and
+          development to product decisions and delivery.
+        </p>
 
-### Technical Arsenal
+        <p>
+          I focus on understanding real business problems and building
+          technology around them — not simply creating software for the sake
+          of software.
+        </p>
+      </section>
 
-**Core Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
-**Tools:** Git, GitHub, VS Code, Python  
-**Cloud & Container Basics:** Docker, Kubernetes
+      <hr />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python,docker,kubernetes" height="48" alt="Laxman S — Technical Skills" />
-</p>
+      {/* NIVLAK */}
+      <section>
+        <h2>NIVLAK Technologies</h2>
 
-<hr>
+        <p>
+          Building practical technology solutions for businesses,
+          products, and digital brands.
+        </p>
 
-## Featured Project
+        <ul>
+          <li>Website Development</li>
+          <li>SaaS Product Development</li>
+          <li>Custom Software Solutions</li>
+          <li>AI Automation Solutions</li>
+          <li>Mobile Application Development</li>
+          <li>Branding &amp; Digital Experiences</li>
+        </ul>
+      </section>
 
-### BlessFeed — Real-Time MERN Breathing & Reflection Platform
+      <hr />
 
-A production-oriented full-stack MERN application that delivers a guided two-minute breathing experience with real-time presence tracking and session-based reflection.
+      {/* Engineering */}
+      <section>
+        <h2>Engineering</h2>
 
-**Live Application:**  
-https://blessfeed-1.onrender.com  
+        <p>
+          <strong>Frontend:</strong> HTML, CSS, JavaScript, React
+        </p>
 
-**Source Code:**  
-https://github.com/laxmanswork-dev/blessfeed  
+        <p>
+          <strong>Backend:</strong> Node.js, Express.js, REST APIs
+        </p>
 
-#### Key Highlights
+        <p>
+          <strong>Database:</strong> MongoDB
+        </p>
 
-- JWT-based authentication with protected routes  
-- Real-time synchronization using Socket.IO  
-- Active user presence tracking system  
-- Session lifecycle management (create, update, complete)  
-- MongoDB-backed reflection history  
-- Performance-conscious state management and controlled socket lifecycle
-  
-<hr>
+        <p>
+          <strong>Engineering &amp; Tools:</strong> Git, GitHub, Docker,
+          Socket.IO, JWT, Axios, Redux
+        </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+        <p>
+          <strong>Focus:</strong> System Architecture, API Design,
+          Authentication, Real-Time Systems, Responsive UI,
+          Production Deployment
+        </p>
 
-<hr>
+        <div className="skills">
+          <img
+            src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,docker"
+            height="48"
+            alt="Technical Skills"
+          />
+        </div>
+      </section>
 
-## Performance Insights
+      <hr />
 
-<p align="center">
-  <b>Tracking my growth as a developer</b><br>
-  <i>Continuous learning • Clean code • Meaningful impact</i>
-</p>
+      {/* Selected Work */}
+      <section>
+        <h2>Selected Work</h2>
 
-<hr>
+        <article>
+          <h3>PACERRA</h3>
 
-### Contribution Timeline
+          <p>
+            A productivity-focused SaaS platform built around focus sessions,
+            teams, real-time updates, XP, and streak-based engagement.
+          </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true"
-    width="90%"
-    alt="Laxman S — Contribution Graph"
-  />
-</p>
+          <p>
+            <strong>Stack:</strong> React, Node.js, Express, MongoDB,
+            Socket.IO, JWT
+          </p>
 
-<hr>
+          <a
+            href="https://github.com/laxmanswork-dev/pacerra"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View Repository →
+          </a>
+        </article>
 
-### Let's Connect Professionally
+        <article>
+          <h3>CALIOON</h3>
 
-<p align="center">
-  <a href="https://github.com/laxmanswork-dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="Laxman S — GitHub Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laxmanswork-dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="Laxman S — LinkedIn Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:laxmanswork.dev@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Laxman S — Email Contact" />
-  </a>
-</p>
+          <p>
+            A premium digital experience inspired by Greek mythology,
+            designed around luxury branding and immersive storytelling.
+          </p>
 
-<p align="center">
-  <i>Design. Develop. Deploy.</i><br>
-  <b>Laxman S</b><br>
-  <i>Let’s build something exceptional.</i>
-</p>
+          <p>
+            <strong>Stack:</strong> React, Vite, Tailwind CSS
+          </p>
 
+          <a
+            href="https://github.com/laxmanswork-dev/CALIOON"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View Repository →
+          </a>
+        </article>
 
+        <article>
+          <h3>Asukavi Acupuncture Clinic</h3>
+
+          <p>
+            A premium healthcare website experience focused on trust,
+            service presentation, branding, and user experience.
+          </p>
+
+          <a
+            href="https://github.com/laxmanswork-dev/asukavi-acupuncture-clinic"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View Repository →
+          </a>
+        </article>
+
+        <article>
+          <h3>Shivdev Holidays</h3>
+
+          <p>
+            A large-scale travel website project focused on destination
+            discovery, premium visual presentation, responsive experiences,
+            and conversion-oriented user flows.
+          </p>
+
+          <a
+            href="https://github.com/laxmanswork-dev/shivdev-holidays"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View Repository →
+          </a>
+        </article>
+      </section>
+
+      <hr />
+
+      {/* Building Philosophy */}
+      <section>
+        <h2>Building Through NIVLAK</h2>
+
+        <blockquote>
+          Understand the business.
+          <br />
+          Design the right solution.
+          <br />
+          Build it properly.
+          <br />
+          Deliver it for real-world use.
+        </blockquote>
+      </section>
+
+      <hr />
+
+      {/* GitHub Activity */}
+      <section>
+        <h2>GitHub Activity</h2>
+
+        <div className="github-stats">
+          <img
+            src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+            alt="GitHub Streak"
+          />
+
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true"
+            width="90%"
+            alt="GitHub Contribution Graph"
+          />
+        </div>
+      </section>
+
+      <hr />
+
+      {/* Connect */}
+      <section className="connect">
+        <h2>Connect</h2>
+
+        <p>
+          <a
+            href="https://github.com/laxmanswork-dev"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+
+          &nbsp; • &nbsp;
+
+          <a
+            href="https://www.linkedin.com/in/laxmanswork-dev/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            LinkedIn
+          </a>
+
+          &nbsp; • &nbsp;
+
+          <a href="mailto:laxmanswork.dev@gmail.com">
+            Email
+          </a>
+        </p>
+
+        <h3>Founder. Engineer. Builder.</h3>
+      </section>
+    </div>
+  );
+};
+
+export default GitHubProfile;
