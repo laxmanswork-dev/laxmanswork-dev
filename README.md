@@ -7,17 +7,31 @@
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      width="34"
+      alt="GitHub"
+    />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="34"
+      alt="LinkedIn"
+    />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://cdn.simpleicons.org/gmail"
+      width="34"
+      alt="Email"
+    />
   </a>
 </p>
 
----
+<hr>
 
 ## About
 
@@ -27,17 +41,17 @@ My background is in software engineering, and I remain closely involved in the t
 
 I’m particularly interested in the space where **business, technology, and thoughtful design meet**.
 
----
+<hr>
 
 ## NIVLAK Technologies
 
-**NIVLAK Technologies** builds digital solutions for businesses and emerging products — from carefully crafted websites and custom software to SaaS platforms and intelligent automation.
+**NIVLAK Technologies** builds digital solutions for businesses, products, and brands — from carefully crafted websites and custom software to SaaS platforms and intelligent automation.
 
 We approach each project from the problem first, rather than the technology first.
 
 **Understand → Design → Build → Deliver**
 
----
+<hr>
 
 ## Engineering
 
@@ -53,11 +67,12 @@ MongoDB · Docker · Git · GitHub
 **Systems**  
 JWT · Socket.IO · API Architecture · Real-Time Applications
 
----
+<hr>
 
 ## Selected Work
 
 ### CALIOON
+
 A mythology-inspired digital brand experience shaped around immersive storytelling, visual identity, and refined interaction.
 
 **React · Vite · Tailwind CSS**
@@ -67,6 +82,7 @@ A mythology-inspired digital brand experience shaped around immersive storytelli
 ---
 
 ### Asukavi Acupuncture Clinic
+
 A premium healthcare web experience developed around clarity, trust, and a distinctive visual identity.
 
 **React · Responsive Web Development**
@@ -76,11 +92,14 @@ A premium healthcare web experience developed around clarity, trust, and a disti
 ---
 
 ### Shivdev Holidays
+
 A destination-led travel experience designed around discovery, visual storytelling, and a considered booking journey.
+
+**React · Responsive Web Development**
 
 [View Project →](https://github.com/laxmanswork-dev/shivdev-holidays)
 
----
+<hr>
 
 ## Perspective
 
@@ -90,7 +109,7 @@ Good engineering should disappear into the experience — reliable underneath, d
 
 That is the standard I bring to my work at NIVLAK.
 
----
+<hr>
 
 <p align="center">
   <img
@@ -99,27 +118,31 @@ That is the standard I bring to my work at NIVLAK.
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=true&area=true"
-    width="90%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
+<hr>
 
 <p align="center">
   <a href="https://github.com/laxmanswork-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      width="34"
+      alt="GitHub"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/laxmanswork-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="34"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:laxmanswork.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img
+      src="https://cdn.simpleicons.org/gmail"
+      width="34"
+      alt="Email"
+    />
   </a>
 </p>
 
