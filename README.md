@@ -1,260 +1,238 @@
-const GitHubProfile = () => {
-  return (
-    <div className="github-profile">
-      {/* Header */}
-      <section className="profile-header">
-        <h1>Laxman S — Founder • Engineer • Builder</h1>
+<h1 align="center">Laxman S — Founder • Engineer • Builder</h1>
 
-        <p className="tagline">
-          <strong>Founder &amp; CEO — NIVLAK Technologies</strong>
-          <br />
-          Building digital products, software systems, and technology experiences.
-        </p>
-      </section>
+<p align="center">
+  <b>Founder & CEO — NIVLAK Technologies</b><br>
+  Building digital products, software systems, and technology experiences.
+</p>
 
-      <hr />
+<p align="center">
+  <a href="https://github.com/laxmanswork-dev">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/laxmanswork-dev/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:laxmanswork.dev@gmail.com">Email</a>
+</p>
 
-      {/* About */}
-      <section>
-        <h2>About</h2>
+<hr>
 
-        <p>
-          I am the Founder &amp; CEO of <strong>NIVLAK Technologies</strong>,
-          a technology company focused on building websites, SaaS products,
-          custom software, AI automation solutions, mobile applications,
-          and digital experiences.
-        </p>
+## About
 
-        <p>
-          My foundation is in software engineering, and I remain hands-on
-          with the technical side of the work — from architecture and
-          development to product decisions and delivery.
-        </p>
+I am the Founder & CEO of **NIVLAK Technologies**, a technology company focused on building digital solutions for businesses, products, and brands.
 
-        <p>
-          I focus on understanding real business problems and building
-          technology around them — not simply creating software for the sake
-          of software.
-        </p>
-      </section>
+At NIVLAK, we work across:
 
-      <hr />
+- Website Development
+- SaaS Product Development
+- Custom Software Solutions
+- AI Automation Solutions
+- Mobile Application Development
+- Branding & Digital Experiences
 
-      {/* NIVLAK */}
-      <section>
-        <h2>NIVLAK Technologies</h2>
+My foundation is in software engineering, and I remain hands-on with the technical side of the work — from system architecture and development to product decisions and delivery.
 
-        <p>
-          Building practical technology solutions for businesses,
-          products, and digital brands.
-        </p>
+I believe technology should be built around the actual needs of a business, with attention to usability, reliability, scalability, and long-term value.
 
-        <ul>
-          <li>Website Development</li>
-          <li>SaaS Product Development</li>
-          <li>Custom Software Solutions</li>
-          <li>AI Automation Solutions</li>
-          <li>Mobile Application Development</li>
-          <li>Branding &amp; Digital Experiences</li>
-        </ul>
-      </section>
+<hr>
 
-      <hr />
+## NIVLAK Technologies
 
-      {/* Engineering */}
-      <section>
-        <h2>Engineering</h2>
+### Technology built around your business.
 
-        <p>
-          <strong>Frontend:</strong> HTML, CSS, JavaScript, React
-        </p>
+NIVLAK Technologies brings together engineering, design, and business thinking to create practical digital solutions.
 
-        <p>
-          <strong>Backend:</strong> Node.js, Express.js, REST APIs
-        </p>
+We focus on understanding the problem first, designing the right solution, and then building it with the appropriate technology.
 
-        <p>
-          <strong>Database:</strong> MongoDB
-        </p>
+**Our approach:**
 
-        <p>
-          <strong>Engineering &amp; Tools:</strong> Git, GitHub, Docker,
-          Socket.IO, JWT, Axios, Redux
-        </p>
+> Understand the business.  
+> Design the right solution.  
+> Build it properly.  
+> Deliver it for real-world use.
 
-        <p>
-          <strong>Focus:</strong> System Architecture, API Design,
-          Authentication, Real-Time Systems, Responsive UI,
-          Production Deployment
-        </p>
+<hr>
 
-        <div className="skills">
-          <img
-            src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,docker"
-            height="48"
-            alt="Technical Skills"
-          />
-        </div>
-      </section>
+## Engineering
 
-      <hr />
+My technical background is rooted in full-stack web development and product engineering.
 
-      {/* Selected Work */}
-      <section>
-        <h2>Selected Work</h2>
+**Frontend**  
+HTML · CSS · JavaScript · React
 
-        <article>
-          <h3>PACERRA</h3>
+**Backend**  
+Node.js · Express.js · REST APIs
 
-          <p>
-            A productivity-focused SaaS platform built around focus sessions,
-            teams, real-time updates, XP, and streak-based engagement.
-          </p>
+**Database**  
+MongoDB
 
-          <p>
-            <strong>Stack:</strong> React, Node.js, Express, MongoDB,
-            Socket.IO, JWT
-          </p>
+**Engineering & Tools**  
+Git · GitHub · Docker · Socket.IO · JWT · Axios · Redux
 
-          <a
-            href="https://github.com/laxmanswork-dev/pacerra"
-            target="_blank"
-            rel="noreferrer"
-          >
-            View Repository →
-          </a>
-        </article>
+**Areas of Focus**  
+System Architecture · API Design · Authentication · Real-Time Systems · Responsive Interfaces · Product Development · Deployment
 
-        <article>
-          <h3>CALIOON</h3>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,docker"
+    height="48"
+    alt="Technical Skills"
+  />
+</p>
 
-          <p>
-            A premium digital experience inspired by Greek mythology,
-            designed around luxury branding and immersive storytelling.
-          </p>
+<hr>
 
-          <p>
-            <strong>Stack:</strong> React, Vite, Tailwind CSS
-          </p>
+## Selected Work
 
-          <a
-            href="https://github.com/laxmanswork-dev/CALIOON"
-            target="_blank"
-            rel="noreferrer"
-          >
-            View Repository →
-          </a>
-        </article>
+### PACERRA — Productivity SaaS
 
-        <article>
-          <h3>Asukavi Acupuncture Clinic</h3>
+A productivity-focused SaaS platform built around focus sessions, teams, real-time updates, XP, and streak-based engagement.
 
-          <p>
-            A premium healthcare website experience focused on trust,
-            service presentation, branding, and user experience.
-          </p>
+**Technology:** React · Node.js · Express · MongoDB · Socket.IO · JWT
 
-          <a
-            href="https://github.com/laxmanswork-dev/asukavi-acupuncture-clinic"
-            target="_blank"
-            rel="noreferrer"
-          >
-            View Repository →
-          </a>
-        </article>
+<a href="https://github.com/laxmanswork-dev/pacerra">
+  View Repository →
+</a>
 
-        <article>
-          <h3>Shivdev Holidays</h3>
+---
 
-          <p>
-            A large-scale travel website project focused on destination
-            discovery, premium visual presentation, responsive experiences,
-            and conversion-oriented user flows.
-          </p>
+### CALIOON — Digital Brand Experience
 
-          <a
-            href="https://github.com/laxmanswork-dev/shivdev-holidays"
-            target="_blank"
-            rel="noreferrer"
-          >
-            View Repository →
-          </a>
-        </article>
-      </section>
+A premium digital experience inspired by Greek mythology, combining brand identity, immersive storytelling, and modern web technology.
 
-      <hr />
+**Technology:** React · Vite · Tailwind CSS
 
-      {/* Building Philosophy */}
-      <section>
-        <h2>Building Through NIVLAK</h2>
+<a href="https://github.com/laxmanswork-dev/CALIOON">
+  View Repository →
+</a>
 
-        <blockquote>
-          Understand the business.
-          <br />
-          Design the right solution.
-          <br />
-          Build it properly.
-          <br />
-          Deliver it for real-world use.
-        </blockquote>
-      </section>
+---
 
-      <hr />
+### Asukavi Acupuncture Clinic
 
-      {/* GitHub Activity */}
-      <section>
-        <h2>GitHub Activity</h2>
+A premium healthcare website experience focused on brand presentation, trust, service communication, and user experience.
 
-        <div className="github-stats">
-          <img
-            src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
-            alt="GitHub Streak"
-          />
+**Technology:** React · Responsive Web Development
 
-          <img
-            src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true"
-            width="90%"
-            alt="GitHub Contribution Graph"
-          />
-        </div>
-      </section>
+<a href="https://github.com/laxmanswork-dev/asukavi-acupuncture-clinic">
+  View Repository →
+</a>
 
-      <hr />
+---
 
-      {/* Connect */}
-      <section className="connect">
-        <h2>Connect</h2>
+### Shivdev Holidays
 
-        <p>
-          <a
-            href="https://github.com/laxmanswork-dev"
-            target="_blank"
-            rel="noreferrer"
-          >
-            GitHub
-          </a>
+A large-scale travel website project focused on destination discovery, premium visual presentation, responsive experiences, and conversion-oriented user flows.
 
-          &nbsp; • &nbsp;
+<a href="https://github.com/laxmanswork-dev/shivdev-holidays">
+  View Repository →
+</a>
 
-          <a
-            href="https://www.linkedin.com/in/laxmanswork-dev/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn
-          </a>
+---
 
-          &nbsp; • &nbsp;
+### BlessFeed
 
-          <a href="mailto:laxmanswork.dev@gmail.com">
-            Email
-          </a>
-        </p>
+A full-stack application built around guided breathing, reflection, session management, and real-time user presence.
 
-        <h3>Founder. Engineer. Builder.</h3>
-      </section>
-    </div>
-  );
-};
+**Technology:** MERN · Socket.IO · JWT · MongoDB
 
-export default GitHubProfile;
+<a href="https://github.com/laxmanswork-dev/Blessfeed">
+  View Repository →
+</a>
+
+<hr>
+
+## Product & Engineering Philosophy
+
+I approach software development from both sides of the problem:
+
+**Business thinking**  
+What does the business actually need?
+
+**Product thinking**  
+How should the solution work for the people using it?
+
+**Engineering thinking**  
+How can the system be built reliably and maintained over time?
+
+**Design thinking**  
+How can the experience feel clear, intentional, and useful?
+
+The goal is not simply to make something work.
+
+The goal is to build something that makes sense.
+
+<hr>
+
+## Building Through NIVLAK
+
+NIVLAK is being built around a simple principle:
+
+<p align="center">
+  <b>Novel Ideas.</b><br>
+  <b>Intelligent Engineering.</b><br>
+  <b>Visionary Impact.</b>
+</p>
+
+We build technology that connects ideas with real-world execution.
+
+<hr>
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=laxmanswork-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=laxmanswork-dev&theme=tokyo-night&hide_border=false&area=true"
+    width="90%"
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+<hr>
+
+## Connect
+
+<p align="center">
+
+  <a href="https://github.com/laxmanswork-dev">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      width="40"
+      alt="GitHub"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/laxmanswork-dev/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      width="40"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:laxmanswork.dev@gmail.com">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+      width="40"
+      alt="Email"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <b>Founder. Engineer. Builder.</b>
+</p>
+
+<p align="center">
+  <i>Building what comes next.</i>
+</p>
